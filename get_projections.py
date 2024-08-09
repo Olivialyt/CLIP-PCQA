@@ -179,3 +179,4 @@ for filename in os.listdir(output_img_dir):
 
     cv2.imwrite(os.path.join(final_img_path, filename), cropped_image)
     cv2.imwrite(os.path.join(final_depth_path, filename), cropped_depth_image)
+
