@@ -114,7 +114,6 @@ if __name__=='__main__':
     # scheduler = torch.optim.lr_scheduler.StepLR(optimizer, step_size=5, gamma=0.8)
 
     if torch.cuda.device_count() > 1:
-        print("使用多个GPU...")
         model = nn.DataParallel(model)
     print(f'Using dataset: {database}')
 
