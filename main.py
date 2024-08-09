@@ -141,7 +141,6 @@ if __name__=='__main__':
         scheduler = torch.optim.lr_scheduler.StepLR(optimizer, step_size=5, gamma=0.9)
 
         if torch.cuda.device_count() > 1:
-            print("使用多个GPU...")
             model = nn.DataParallel(model)
         print(f'Using dataset: {database}')
 
@@ -237,4 +236,3 @@ if __name__=='__main__':
     print('*************************************************************************************************************************')
     print("The mean val results: PLCC={:.4f}, SROCC={:.4f}, RMSE={:.4f}, KROCC={:.4f}".format(best[0], best[1], best[2], best[3]))
     print('*************************************************************************************************************************')
-    
