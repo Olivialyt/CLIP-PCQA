@@ -180,3 +180,4 @@ for train_index, trained_ckpt in enumerate(trained_ckpts):
             test_KROCC = scipy.stats.kendalltau(y_pre, y_true)[0]
 
             print("Test results: PLCC={:.4f}, SROCC={:.4f}, RMSE={:.4f}, KROCC={:.4f}".format(test_PLCC, test_SROCC, test_RMSE, test_KROCC))
+
