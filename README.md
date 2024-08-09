@@ -46,7 +46,7 @@ By unzipping the files, you should get the file structure like:
 Given the limited size of the databases, k-fold cross-validation is employed to provide a more accurate estimate of the proposed method's performance. We partition the databases according to content (reference point clouds), and the K-fold Training and Test Set Files are provided in the `csvfiles` folder.
 
 ## Training
-You can simply train the CLIP-PCQA by referring to train.sh with the following command:
+Take LS-PCQA for example, you can simply train the CLIP-PCQA by referring to train.sh with the following command:
 ```
 CUDA_VISIBLE_DEVICES=0,1 python -u main.py \
 --learning_rate 0.000004 \
