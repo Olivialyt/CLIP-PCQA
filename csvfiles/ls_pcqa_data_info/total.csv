@@ -1,0 +1,931 @@
+name,mos,class
+4armsMonstre_Octree_1.ply,3.71875,cartoon character
+4armsMonstre_Octree_2.ply,3.3125,cartoon character
+4armsMonstre_Octree_3.ply,3.142857143,cartoon character
+4armsMonstre_Octree_4.ply,2.533333333,cartoon character
+4armsMonstre_Octree_5.ply,2.166666667,cartoon character
+Asterix_GammaNoise_1.ply,3.214285714,cartoon character
+Asterix_GammaNoise_3.ply,2.75,cartoon character
+Asterix_GammaNoise_4.ply,2.966666667,cartoon character
+Asterix_GammaNoise_5.ply,2.857142857,cartoon character
+Asterix_GammaNoise_7.ply,2.285714286,cartoon character
+Asterix_MultiplicativeGaussianNoise_1.ply,2.933333333,cartoon character
+Asterix_MultiplicativeGaussianNoise_3.ply,2.633333333,cartoon character
+Asterix_MultiplicativeGaussianNoise_4.ply,2.5,cartoon character
+Asterix_MultiplicativeGaussianNoise_5.ply,2.375,cartoon character
+Asterix_MultiplicativeGaussianNoise_7.ply,2.214285714,cartoon character
+Asterix_reconstruction_3.ply,4.0625,cartoon character
+Asterix_reconstruction_4.ply,3.964285714,cartoon character
+Asterix_reconstruction_5.ply,3.678571429,cartoon character
+Asterix_reconstruction_6.ply,3.678571429,cartoon character
+Asterix_reconstruction_7.ply,3.035714286,cartoon character
+AustralianCattleDog_limitlossyG-lossyA_3.ply,4.142857143,animal
+AustralianCattleDog_limitlossyG-lossyA_4.ply,4.214285714,animal
+AustralianCattleDog_limitlossyG-lossyA_5.ply,2.96875,animal
+AustralianCattleDog_limitlossyG-lossyA_6.ply,1.964285714,animal
+AustralianCattleDog_limitlossyG-lossyA_7.ply,1.6875,animal
+AustralianCattleDog_LumaNoise_1.ply,4.178571429,animal
+AustralianCattleDog_LumaNoise_3.ply,2.892857143,animal
+AustralianCattleDog_LumaNoise_4.ply,2.866666667,animal
+AustralianCattleDog_LumaNoise_5.ply,2.678571429,animal
+AustralianCattleDog_LumaNoise_7.ply,2.107142857,animal
+aya_limitlossyG-lossyA_3.ply,4.34375,human
+aya_limitlossyG-lossyA_4.ply,3.8125,human
+aya_limitlossyG-lossyA_5.ply,2.571428571,human
+aya_limitlossyG-lossyA_6.ply,2.125,human
+aya_limitlossyG-lossyA_7.ply,1.357142857,human
+aya_lossless-geom-lossy-attrs_3.ply,4.928571429,human
+aya_lossless-geom-lossy-attrs_4.ply,4.428571429,human
+aya_lossless-geom-lossy-attrs_5.ply,4.433333333,human
+aya_lossless-geom-lossy-attrs_6.ply,3.9375,human
+aya_lossless-geom-lossy-attrs_7.ply,3.03125,human
+aya_PoissonNoise_3.ply,4.178571429,human
+aya_PoissonNoise_4.ply,3.928571429,human
+aya_PoissonNoise_5.ply,4,human
+aya_PoissonNoise_6.ply,3.5,human
+aya_PoissonNoise_7.ply,3.428571429,human
+Baldness_limitlossyG-lossyA_3.ply,4.9,human
+Baldness_limitlossyG-lossyA_4.ply,3.625,human
+Baldness_limitlossyG-lossyA_5.ply,1.785714286,human
+Baldness_limitlossyG-lossyA_6.ply,1.8,human
+Baldness_limitlossyG-lossyA_7.ply,1.464285714,human
+Baldness_lossless-geom-lossy-attrs_3.ply,4.8125,human
+Baldness_lossless-geom-lossy-attrs_4.ply,4.392857143,human
+Baldness_lossless-geom-lossy-attrs_5.ply,4.035714286,human
+Baldness_lossless-geom-lossy-attrs_6.ply,3.785714286,human
+Baldness_lossless-geom-lossy-attrs_7.ply,2.607142857,human
+Baldness_PoissonNoise_3.ply,3.5,human
+Baldness_PoissonNoise_4.ply,4.107142857,human
+Baldness_PoissonNoise_5.ply,3.566666667,human
+Baldness_PoissonNoise_6.ply,3.428571429,human
+Baldness_PoissonNoise_7.ply,3.5,human
+banjofrog_limitlossyG-lossyA_3.ply,4.8,animal
+banjofrog_limitlossyG-lossyA_4.ply,4.357142857,animal
+banjofrog_limitlossyG-lossyA_5.ply,2.8125,animal
+banjofrog_limitlossyG-lossyA_6.ply,2.25,animal
+banjofrog_limitlossyG-lossyA_7.ply,1.785714286,animal
+basketballplayer_lossless-geom-nearlossless-attrs_3.ply,4.785714286,human
+basketballplayer_lossless-geom-nearlossless-attrs_4.ply,4.678571429,human
+basketballplayer_lossless-geom-nearlossless-attrs_5.ply,3.964285714,human
+basketballplayer_lossless-geom-nearlossless-attrs_6.ply,2.678571429,human
+basketballplayer_lossless-geom-nearlossless-attrs_7.ply,1.8125,human
+basketballplayer_losslessG-limitlossyA_3.ply,4.535714286,human
+basketballplayer_losslessG-limitlossyA_4.ply,4.25,human
+basketballplayer_losslessG-limitlossyA_5.ply,3.785714286,human
+basketballplayer_losslessG-limitlossyA_6.ply,3.25,human
+basketballplayer_losslessG-limitlossyA_7.ply,2.785714286,human
+basketballplayer_QuantizationNoise_1.ply,3.75,human
+basketballplayer_QuantizationNoise_3.ply,3.214285714,human
+basketballplayer_QuantizationNoise_4.ply,3.233333333,human
+basketballplayer_QuantizationNoise_5.ply,3.28125,human
+basketballplayer_QuantizationNoise_7.ply,2.857142857,human
+BB8New_C2AI-lossy-geom-lossy-attrs_3.ply,4.892857143,cartoon character
+BB8New_C2AI-lossy-geom-lossy-attrs_4.ply,4.464285714,cartoon character
+BB8New_C2AI-lossy-geom-lossy-attrs_5.ply,3.785714286,cartoon character
+BB8New_C2AI-lossy-geom-lossy-attrs_6.ply,3.607142857,cartoon character
+BB8New_C2AI-lossy-geom-lossy-attrs_7.ply,3.357142857,cartoon character
+BB8New_LocalOffset_1.ply,3.53125,cartoon character
+BB8New_LocalOffset_2.ply,2.892857143,cartoon character
+BB8New_LocalOffset_3.ply,2.375,cartoon character
+BB8New_LocalOffset_4.ply,2.321428571,cartoon character
+BB8New_LocalOffset_5.ply,1.535714286,cartoon character
+BB8New_LocalRotation_1.ply,3.033333333,cartoon character
+BB8New_LocalRotation_2.ply,3.166666667,cartoon character
+BB8New_LocalRotation_3.ply,2.464285714,cartoon character
+BB8New_LocalRotation_4.ply,1.8,cartoon character
+BB8New_LocalRotation_5.ply,1.766666667,cartoon character
+BB8New_SaltpepperNoise_1.ply,3.428571429,cartoon character
+BB8New_SaltpepperNoise_3.ply,3.178571429,cartoon character
+BB8New_SaltpepperNoise_4.ply,2.785714286,cartoon character
+BB8New_SaltpepperNoise_5.ply,2.964285714,cartoon character
+BB8New_SaltpepperNoise_7.ply,2.8,cartoon character
+Beagle_losslessG-limitlossyA_3.ply,4.9,animal
+Beagle_losslessG-limitlossyA_4.ply,4.678571429,animal
+Beagle_losslessG-limitlossyA_5.ply,4.3,animal
+Beagle_losslessG-limitlossyA_6.ply,3.733333333,animal
+Beagle_losslessG-limitlossyA_7.ply,3.285714286,animal
+Beagle_LumaNoise_1.ply,4.857142857,animal
+Beagle_LumaNoise_3.ply,3.035714286,animal
+Beagle_LumaNoise_4.ply,3.46875,animal
+Beagle_LumaNoise_5.ply,2.9,animal
+Beagle_LumaNoise_7.ply,3,animal
+BirdToucan_losslessG-limitlossyA_3.ply,4.833333333,animal
+BirdToucan_losslessG-limitlossyA_4.ply,4.8,animal
+BirdToucan_losslessG-limitlossyA_5.ply,4.333333333,animal
+BirdToucan_losslessG-limitlossyA_6.ply,3.766666667,animal
+BirdToucan_losslessG-limitlossyA_7.ply,3.533333333,animal
+BirdToucan_MeanShift_1.ply,4.821428571,animal
+BirdToucan_MeanShift_3.ply,3.714285714,animal
+BirdToucan_MeanShift_4.ply,3.071428571,animal
+BirdToucan_MeanShift_5.ply,3.107142857,animal
+BirdToucan_MeanShift_7.ply,2.428571429,animal
+Birdv1_losslessG-lossyA_3.ply,4.964285714,animal
+Birdv1_losslessG-lossyA_4.ply,4.678571429,animal
+Birdv1_losslessG-lossyA_5.ply,3.9,animal
+Birdv1_losslessG-lossyA_6.ply,2.678571429,animal
+Birdv1_losslessG-lossyA_7.ply,2.633333333,animal
+Birdv1_MeanShift_1.ply,4.928571429,animal
+Birdv1_MeanShift_3.ply,3.25,animal
+Birdv1_MeanShift_4.ply,3.1,animal
+Birdv1_MeanShift_5.ply,2.821428571,animal
+Birdv1_MeanShift_7.ply,2.8125,animal
+BirdV2_losslessG-lossyA_3.ply,4.75,animal
+BirdV2_losslessG-lossyA_4.ply,4.6,animal
+BirdV2_losslessG-lossyA_5.ply,3.53125,animal
+BirdV2_losslessG-lossyA_6.ply,3.25,animal
+BirdV2_losslessG-lossyA_7.ply,3.233333333,animal
+BirdV3_MultiplicativeGaussianNoise_1.ply,3.566666667,animal
+BirdV3_MultiplicativeGaussianNoise_3.ply,3.21875,animal
+BirdV3_MultiplicativeGaussianNoise_4.ply,2.9,animal
+BirdV3_MultiplicativeGaussianNoise_5.ply,3,animal
+BirdV3_MultiplicativeGaussianNoise_7.ply,2.84375,animal
+BirdV4_MultiplicativeGaussianNoise_1.ply,3.607142857,animal
+BirdV4_MultiplicativeGaussianNoise_3.ply,3.357142857,animal
+BirdV4_MultiplicativeGaussianNoise_4.ply,3.178571429,animal
+BirdV4_MultiplicativeGaussianNoise_5.ply,2.933333333,animal
+BirdV4_MultiplicativeGaussianNoise_7.ply,2.535714286,animal
+Birdv5_Octree_1.ply,3.642857143,animal
+Birdv5_Octree_2.ply,2.464285714,animal
+Birdv5_Octree_3.ply,2.392857143,animal
+Birdv5_Octree_4.ply,2.142857143,animal
+Birdv5_Octree_5.ply,2.035714286,animal
+BirdV6_Octree_1.ply,3.25,animal
+BirdV6_Octree_2.ply,2.766666667,animal
+BirdV6_Octree_3.ply,2.714285714,animal
+BirdV6_Octree_4.ply,2.40625,animal
+BirdV6_Octree_5.ply,2.357142857,animal
+BricksWall_GammaNoise_1.ply,3.78125,inanimate object
+BricksWall_GammaNoise_3.ply,3.321428571,inanimate object
+BricksWall_GammaNoise_4.ply,3.4375,inanimate object
+BricksWall_GammaNoise_5.ply,3.321428571,inanimate object
+BricksWall_GammaNoise_7.ply,2.535714286,inanimate object
+BricksWall_HighFrequencyNoise_3.ply,4.25,inanimate object
+BricksWall_HighFrequencyNoise_4.ply,4.178571429,inanimate object
+BricksWall_HighFrequencyNoise_5.ply,3.6875,inanimate object
+BricksWall_HighFrequencyNoise_6.ply,3.357142857,inanimate object
+BricksWall_HighFrequencyNoise_7.ply,3.107142857,inanimate object
+BricksWall_limitlossyG-lossyA_3.ply,4.678571429,inanimate object
+BricksWall_limitlossyG-lossyA_4.ply,4.71875,inanimate object
+BricksWall_limitlossyG-lossyA_5.ply,2.821428571,inanimate object
+BricksWall_limitlossyG-lossyA_6.ply,1.84375,inanimate object
+BricksWall_limitlossyG-lossyA_7.ply,1.1,inanimate object
+BricksWall_QuantizationNoise_1.ply,4.03125,inanimate object
+BricksWall_QuantizationNoise_3.ply,3.966666667,inanimate object
+BricksWall_QuantizationNoise_4.ply,3.285714286,inanimate object
+BricksWall_QuantizationNoise_5.ply,3.821428571,inanimate object
+BricksWall_QuantizationNoise_7.ply,3.178571429,inanimate object
+bristleback_GaussianNoise_1.ply,3.428571429,human
+bristleback_GaussianNoise_3.ply,3.5,human
+bristleback_GaussianNoise_4.ply,3.2,human
+bristleback_GaussianNoise_5.ply,2.785714286,human
+bristleback_GaussianNoise_7.ply,2.4,human
+bristleback_MultiplicativeGaussianNoise_1.ply,3.535714286,human
+bristleback_MultiplicativeGaussianNoise_3.ply,3.214285714,human
+bristleback_MultiplicativeGaussianNoise_4.ply,2.964285714,human
+bristleback_MultiplicativeGaussianNoise_5.ply,3.03125,human
+bristleback_MultiplicativeGaussianNoise_7.ply,2.766666667,human
+Caffe_ColorNoise_3.ply,3.928571429,inanimate object
+Caffe_ColorNoise_4.ply,3.535714286,inanimate object
+Caffe_ColorNoise_5.ply,3.633333333,inanimate object
+Caffe_ColorNoise_6.ply,3.392857143,inanimate object
+Caffe_ColorNoise_7.ply,2.892857143,inanimate object
+Caffe_ContrastDistortion_1.ply,4,inanimate object
+Caffe_ContrastDistortion_2.ply,3.607142857,inanimate object
+Caffe_ContrastDistortion_3.ply,3.285714286,inanimate object
+Caffe_ContrastDistortion_4.ply,3.178571429,inanimate object
+Caffe_ContrastDistortion_5.ply,2.214285714,inanimate object
+Caffe_CorrelatedGaussianNoise_1.ply,4.107142857,inanimate object
+Caffe_CorrelatedGaussianNoise_2.ply,3.75,inanimate object
+Caffe_CorrelatedGaussianNoise_3.ply,3.59375,inanimate object
+Caffe_CorrelatedGaussianNoise_4.ply,3.285714286,inanimate object
+Caffe_CorrelatedGaussianNoise_5.ply,2.892857143,inanimate object
+Caffe_GaussianShifting_1.ply,4.46875,inanimate object
+Caffe_GaussianShifting_2.ply,3.2,inanimate object
+Caffe_GaussianShifting_3.ply,3.133333333,inanimate object
+Caffe_GaussianShifting_4.ply,2.392857143,inanimate object
+Caffe_GaussianShifting_5.ply,2.25,inanimate object
+Caffe_LumaNoise_1.ply,4.071428571,inanimate object
+Caffe_LumaNoise_3.ply,3.107142857,inanimate object
+Caffe_LumaNoise_4.ply,2.857142857,inanimate object
+Caffe_LumaNoise_5.ply,2.928571429,inanimate object
+Caffe_LumaNoise_7.ply,2.571428571,inanimate object
+CardiganWelshCorgi_ColorNoise_3.ply,4.25,animal
+CardiganWelshCorgi_ColorNoise_4.ply,3.9,animal
+CardiganWelshCorgi_ColorNoise_5.ply,3.571428571,animal
+CardiganWelshCorgi_ColorNoise_6.ply,3.071428571,animal
+CardiganWelshCorgi_ColorNoise_7.ply,3,animal
+Cat_ColorNoise_3.ply,4.65625,animal
+Cat_ColorNoise_4.ply,4.035714286,animal
+Cat_ColorNoise_5.ply,3.714285714,animal
+Cat_ColorNoise_6.ply,3.433333333,animal
+Cat_ColorNoise_7.ply,3.25,animal
+Cat_PoissonNoise_3.ply,4.366666667,animal
+Cat_PoissonNoise_4.ply,4.3,animal
+Cat_PoissonNoise_5.ply,3.464285714,animal
+Cat_PoissonNoise_6.ply,3.8125,animal
+Cat_PoissonNoise_7.ply,3.321428571,animal
+CatV1_PoissonNoise_3.ply,3.428571429,animal
+CatV1_PoissonNoise_4.ply,3.46875,animal
+CatV1_PoissonNoise_5.ply,3.142857143,animal
+CatV1_PoissonNoise_6.ply,2.966666667,animal
+CatV1_PoissonNoise_7.ply,3.34375,animal
+Chicken_ColorQuantizationDither_3.ply,4,animal
+Chicken_ColorQuantizationDither_4.ply,3.178571429,animal
+Chicken_ColorQuantizationDither_5.ply,3.035714286,animal
+Chicken_ColorQuantizationDither_6.ply,2.464285714,animal
+Chicken_ColorQuantizationDither_7.ply,2.035714286,animal
+Chicken_QuantizationNoise_1.ply,3.964285714,animal
+Chicken_QuantizationNoise_3.ply,3.857142857,animal
+Chicken_QuantizationNoise_4.ply,3.6,animal
+Chicken_QuantizationNoise_5.ply,3.633333333,animal
+Chicken_QuantizationNoise_7.ply,3.166666667,animal
+crabV2_ColorQuantizationDither_3.ply,4.25,animal
+crabV2_ColorQuantizationDither_4.ply,3.321428571,animal
+crabV2_ColorQuantizationDither_5.ply,2.966666667,animal
+crabV2_ColorQuantizationDither_6.ply,2.285714286,animal
+crabV2_ColorQuantizationDither_7.ply,2.178571429,animal
+dancer_lossless-geom-nearlossless-attrs_3.ply,4.892857143,human
+dancer_lossless-geom-nearlossless-attrs_4.ply,4.666666667,human
+dancer_lossless-geom-nearlossless-attrs_5.ply,3.714285714,human
+dancer_lossless-geom-nearlossless-attrs_6.ply,2.785714286,human
+dancer_lossless-geom-nearlossless-attrs_7.ply,1.428571429,human
+dancer_losslessG-limitlossyA_3.ply,4.892857143,human
+dancer_losslessG-limitlossyA_4.ply,4.464285714,human
+dancer_losslessG-limitlossyA_5.ply,3.928571429,human
+dancer_losslessG-limitlossyA_6.ply,3.366666667,human
+dancer_losslessG-limitlossyA_7.ply,3,human
+dancer_QuantizationNoise_1.ply,3.892857143,human
+dancer_QuantizationNoise_3.ply,3.571428571,human
+dancer_QuantizationNoise_4.ply,3.357142857,human
+dancer_QuantizationNoise_5.ply,3.3125,human
+dancer_QuantizationNoise_7.ply,2.933333333,human
+DobermanPinscher_ContrastDistortion_1.ply,3.821428571,animal
+DobermanPinscher_ContrastDistortion_2.ply,3.178571429,animal
+DobermanPinscher_ContrastDistortion_3.ply,2.933333333,animal
+DobermanPinscher_ContrastDistortion_4.ply,2.666666667,animal
+DobermanPinscher_ContrastDistortion_5.ply,2.866666667,animal
+DobermanPinscher_QuantizationNoise_1.ply,4.285714286,animal
+DobermanPinscher_QuantizationNoise_3.ply,3.535714286,animal
+DobermanPinscher_QuantizationNoise_4.ply,3.785714286,animal
+DobermanPinscher_QuantizationNoise_5.ply,3.535714286,animal
+DobermanPinscher_QuantizationNoise_7.ply,3.1,animal
+Dolphin_ContrastDistortion_1.ply,3.678571429,animal
+Dolphin_ContrastDistortion_2.ply,3.033333333,animal
+Dolphin_ContrastDistortion_3.ply,2.321428571,animal
+Dolphin_ContrastDistortion_4.ply,2,animal
+Dolphin_ContrastDistortion_5.ply,1.857142857,animal
+Dolphin_RayleighNoise_1.ply,4.178571429,animal
+Dolphin_RayleighNoise_3.ply,3.428571429,animal
+Dolphin_RayleighNoise_4.ply,3.142857143,animal
+Dolphin_RayleighNoise_5.ply,2.928571429,animal
+Dolphin_RayleighNoise_7.ply,2.464285714,animal
+Dragon_LocalRotation_1.ply,3.25,animal
+Dragon_LocalRotation_2.ply,3.0625,animal
+Dragon_LocalRotation_3.ply,1.214285714,animal
+Dragon_LocalRotation_4.ply,1.133333333,animal
+Dragon_LocalRotation_5.ply,1,animal
+Duck_CorrelatedGaussianNoise_1.ply,4.785714286,animal
+Duck_CorrelatedGaussianNoise_2.ply,3.821428571,animal
+Duck_CorrelatedGaussianNoise_3.ply,3.53125,animal
+Duck_CorrelatedGaussianNoise_4.ply,3.214285714,animal
+Duck_CorrelatedGaussianNoise_5.ply,3.125,animal
+Duck_RayleighNoise_1.ply,4.5,animal
+Duck_RayleighNoise_3.ply,3.25,animal
+Duck_RayleighNoise_4.ply,3.15625,animal
+Duck_RayleighNoise_5.ply,3,animal
+Duck_RayleighNoise_7.ply,2.5,animal
+DuckV1_CorrelatedGaussianNoise_1.ply,4.714285714,animal
+DuckV1_CorrelatedGaussianNoise_2.ply,4.142857143,animal
+DuckV1_CorrelatedGaussianNoise_3.ply,3.75,animal
+DuckV1_CorrelatedGaussianNoise_4.ply,3.392857143,animal
+DuckV1_CorrelatedGaussianNoise_5.ply,3.166666667,animal
+DuckV1_reconstruction_3.ply,3.821428571,animal
+DuckV1_reconstruction_4.ply,4,animal
+DuckV1_reconstruction_5.ply,3.733333333,animal
+DuckV1_reconstruction_6.ply,3.6875,animal
+DuckV1_reconstruction_7.ply,2.785714286,animal
+EasternHognoseSnake_DownSample_3.ply,4.535714286,animal
+EasternHognoseSnake_DownSample_4.ply,4.133333333,animal
+EasternHognoseSnake_DownSample_5.ply,3.964285714,animal
+EasternHognoseSnake_DownSample_6.ply,3.333333333,animal
+EasternHognoseSnake_DownSample_7.ply,2.9375,animal
+EmperorPenguin_DownSample_3.ply,4.125,animal
+EmperorPenguin_DownSample_4.ply,3.571428571,animal
+EmperorPenguin_DownSample_5.ply,3.375,animal
+EmperorPenguin_DownSample_6.ply,3,animal
+EmperorPenguin_DownSample_7.ply,2.785714286,animal
+exercise_losslessG-lossyA_3.ply,4.821428571,human
+exercise_losslessG-lossyA_4.ply,3.5,human
+exercise_losslessG-lossyA_5.ply,3.40625,human
+exercise_losslessG-lossyA_6.ply,2.71875,human
+exercise_losslessG-lossyA_7.ply,2.178571429,human
+exercise_lossy-geom-lossy-attrs_3.ply,4.678571429,human
+exercise_lossy-geom-lossy-attrs_4.ply,3.857142857,human
+exercise_lossy-geom-lossy-attrs_5.ply,3.285714286,human
+exercise_lossy-geom-lossy-attrs_6.ply,2.678571429,human
+exercise_lossy-geom-lossy-attrs_7.ply,1.607142857,human
+exercise_RayleighNoise_1.ply,4.178571429,human
+exercise_RayleighNoise_3.ply,3.3125,human
+exercise_RayleighNoise_4.ply,2.892857143,human
+exercise_RayleighNoise_5.ply,2.714285714,human
+exercise_RayleighNoise_7.ply,2.392857143,human
+Facade00009_GaussianNoise_1.ply,3.571428571,inanimate object
+Facade00009_GaussianNoise_3.ply,3.035714286,inanimate object
+Facade00009_GaussianNoise_4.ply,3,inanimate object
+Facade00009_GaussianNoise_5.ply,2.96875,inanimate object
+Facade00009_GaussianNoise_7.ply,2,inanimate object
+Facade00009_LocalLoss_1.ply,3.166666667,inanimate object
+Facade00009_LocalLoss_2.ply,2.678571429,inanimate object
+Facade00009_LocalLoss_3.ply,2.15625,inanimate object
+Facade00009_LocalLoss_4.ply,1.678571429,inanimate object
+Facade00009_LocalLoss_5.ply,1.59375,inanimate object
+Facade00009_losslessG-limitlossyA_3.ply,4.464285714,inanimate object
+Facade00009_losslessG-limitlossyA_4.ply,4.6,inanimate object
+Facade00009_losslessG-limitlossyA_5.ply,4.466666667,inanimate object
+Facade00009_losslessG-limitlossyA_6.ply,4.166666667,inanimate object
+Facade00009_losslessG-limitlossyA_7.ply,4.035714286,inanimate object
+Facade00009_RayleighNoise_1.ply,4.375,inanimate object
+Facade00009_RayleighNoise_3.ply,3.571428571,inanimate object
+Facade00009_RayleighNoise_4.ply,3,inanimate object
+Facade00009_RayleighNoise_5.ply,2.892857143,inanimate object
+Facade00009_RayleighNoise_7.ply,2.535714286,inanimate object
+Facade00009_reconstruction_3.ply,2.785714286,inanimate object
+Facade00009_reconstruction_4.ply,2.642857143,inanimate object
+Facade00009_reconstruction_5.ply,2.357142857,inanimate object
+Facade00009_reconstruction_6.ply,2.5,inanimate object
+Facade00009_reconstruction_7.ply,2.107142857,inanimate object
+Facade00064_GaussianNoise_1.ply,2.821428571,inanimate object
+Facade00064_GaussianNoise_3.ply,2.5,inanimate object
+Facade00064_GaussianNoise_4.ply,1.7,inanimate object
+Facade00064_GaussianNoise_5.ply,2,inanimate object
+Facade00064_GaussianNoise_7.ply,1.5,inanimate object
+Facade00064_LocalOffset_1.ply,2.392857143,inanimate object
+Facade00064_LocalOffset_2.ply,2.266666667,inanimate object
+Facade00064_LocalOffset_3.ply,1.928571429,inanimate object
+Facade00064_LocalOffset_4.ply,1.566666667,inanimate object
+Facade00064_LocalOffset_5.ply,1.214285714,inanimate object
+Facade00064_LocalRotation_1.ply,2.40625,inanimate object
+Facade00064_LocalRotation_2.ply,1.464285714,inanimate object
+Facade00064_LocalRotation_3.ply,1.571428571,inanimate object
+Facade00064_LocalRotation_4.ply,1.035714286,inanimate object
+Facade00064_LocalRotation_5.ply,1.071428571,inanimate object
+Facade00064_losslessG-limitlossyA_3.ply,4.666666667,inanimate object
+Facade00064_losslessG-limitlossyA_4.ply,4.535714286,inanimate object
+Facade00064_losslessG-limitlossyA_5.ply,3.821428571,inanimate object
+Facade00064_losslessG-limitlossyA_6.ply,3.214285714,inanimate object
+Facade00064_losslessG-limitlossyA_7.ply,1.875,inanimate object
+Facade00064_RayleighNoise_1.ply,4.066666667,inanimate object
+Facade00064_RayleighNoise_3.ply,2.678571429,inanimate object
+Facade00064_RayleighNoise_4.ply,2.71875,inanimate object
+Facade00064_RayleighNoise_5.ply,2.333333333,inanimate object
+Facade00064_RayleighNoise_7.ply,1.928571429,inanimate object
+Fish_GammaNoise_1.ply,3.535714286,animal
+Fish_GammaNoise_3.ply,3.333333333,animal
+Fish_GammaNoise_4.ply,3,animal
+Fish_GammaNoise_5.ply,3.066666667,animal
+Fish_GammaNoise_7.ply,2.392857143,animal
+Fish_reconstruction_3.ply,4.133333333,animal
+Fish_reconstruction_4.ply,4.25,animal
+Fish_reconstruction_5.ply,4,animal
+Fish_reconstruction_6.ply,4.033333333,animal
+Fish_reconstruction_7.ply,3.6875,animal
+FishV1_GammaNoise_1.ply,3.5,animal
+FishV1_GammaNoise_3.ply,3.678571429,animal
+FishV1_GammaNoise_4.ply,3.233333333,animal
+FishV1_GammaNoise_5.ply,3,animal
+FishV1_GammaNoise_7.ply,2.928571429,animal
+FishV1_SaltpepperNoise_1.ply,3.84375,animal
+FishV1_SaltpepperNoise_3.ply,2.928571429,animal
+FishV1_SaltpepperNoise_4.ply,3.321428571,animal
+FishV1_SaltpepperNoise_5.ply,2.964285714,animal
+FishV1_SaltpepperNoise_7.ply,2.892857143,animal
+GermanBoxer_GaussianNoise_1.ply,4.035714286,animal
+GermanBoxer_GaussianNoise_3.ply,3.321428571,animal
+GermanBoxer_GaussianNoise_4.ply,3.107142857,animal
+GermanBoxer_GaussianNoise_5.ply,3.21875,animal
+GermanBoxer_GaussianNoise_7.ply,2.875,animal
+GermanBoxer_SaltpepperNoise_1.ply,3.633333333,animal
+GermanBoxer_SaltpepperNoise_3.ply,2.90625,animal
+GermanBoxer_SaltpepperNoise_4.ply,2.857142857,animal
+GermanBoxer_SaltpepperNoise_5.ply,2.535714286,animal
+GermanBoxer_SaltpepperNoise_7.ply,2.5,animal
+Handcream_C2AI-lossy-geom-lossy-attrs_3.ply,4.357142857,inanimate object
+Handcream_C2AI-lossy-geom-lossy-attrs_4.ply,4.25,inanimate object
+Handcream_C2AI-lossy-geom-lossy-attrs_5.ply,3.928571429,inanimate object
+Handcream_C2AI-lossy-geom-lossy-attrs_6.ply,3.433333333,inanimate object
+Handcream_C2AI-lossy-geom-lossy-attrs_7.ply,2.607142857,inanimate object
+Handcream_ColorNoise_3.ply,4.21875,inanimate object
+Handcream_ColorNoise_4.ply,3.392857143,inanimate object
+Handcream_ColorNoise_5.ply,3.533333333,inanimate object
+Handcream_ColorNoise_6.ply,3.3,inanimate object
+Handcream_ColorNoise_7.ply,3.25,inanimate object
+Handcream_lossless-geom-lossy-attrs_3.ply,4.607142857,inanimate object
+Handcream_lossless-geom-lossy-attrs_4.ply,4.5,inanimate object
+Handcream_lossless-geom-lossy-attrs_5.ply,4.066666667,inanimate object
+Handcream_lossless-geom-lossy-attrs_6.ply,3.5,inanimate object
+Handcream_lossless-geom-lossy-attrs_7.ply,3.178571429,inanimate object
+Handcream_LumaNoise_1.ply,4.3125,inanimate object
+Handcream_LumaNoise_3.ply,3.642857143,inanimate object
+Handcream_LumaNoise_4.ply,3.033333333,inanimate object
+Handcream_LumaNoise_5.ply,2.766666667,inanimate object
+Handcream_LumaNoise_7.ply,2.035714286,inanimate object
+HearNoEvilMonkey_GaussianShifting_1.ply,4.733333333,animal
+HearNoEvilMonkey_GaussianShifting_2.ply,3.321428571,animal
+HearNoEvilMonkey_GaussianShifting_3.ply,3.0625,animal
+HearNoEvilMonkey_GaussianShifting_4.ply,2.678571429,animal
+HearNoEvilMonkey_GaussianShifting_5.ply,2.785714286,animal
+HearNoEvilMonkey_SaturationDistortion_1.ply,4.28125,animal
+HearNoEvilMonkey_SaturationDistortion_2.ply,4.09375,animal
+HearNoEvilMonkey_SaturationDistortion_3.ply,3.5,animal
+HearNoEvilMonkey_SaturationDistortion_4.ply,2.714285714,animal
+HearNoEvilMonkey_SaturationDistortion_5.ply,2.78125,animal
+Horse_GaussianNoise_1.ply,3.40625,animal
+Horse_GaussianNoise_3.ply,2.96875,animal
+Horse_GaussianNoise_4.ply,2.875,animal
+Horse_GaussianNoise_5.ply,2.357142857,animal
+Horse_GaussianNoise_7.ply,1.678571429,animal
+Horse_SaturationDistortion_1.ply,4.535714286,animal
+Horse_SaturationDistortion_2.ply,3.642857143,animal
+Horse_SaturationDistortion_3.ply,2.75,animal
+Horse_SaturationDistortion_4.ply,2.5,animal
+Horse_SaturationDistortion_5.ply,2.5625,animal
+HorseV2_GaussianShifting_1.ply,4.928571429,animal
+HorseV2_GaussianShifting_2.ply,3.6875,animal
+HorseV2_GaussianShifting_3.ply,3.4375,animal
+HorseV2_GaussianShifting_4.ply,3,animal
+HorseV2_GaussianShifting_5.ply,2.821428571,animal
+HorseV2_UniformNoise_1.ply,4.785714286,animal
+HorseV2_UniformNoise_3.ply,4.035714286,animal
+HorseV2_UniformNoise_4.ply,3.9375,animal
+HorseV2_UniformNoise_5.ply,3.78125,animal
+HorseV2_UniformNoise_7.ply,3.214285714,animal
+HouseWithoutRoof_GaussianShifting_1.ply,4.033333333,inanimate object
+HouseWithoutRoof_GaussianShifting_2.ply,3.233333333,inanimate object
+HouseWithoutRoof_GaussianShifting_3.ply,2.766666667,inanimate object
+HouseWithoutRoof_GaussianShifting_4.ply,2.642857143,inanimate object
+HouseWithoutRoof_GaussianShifting_5.ply,2.266666667,inanimate object
+HouseWithoutRoof_LocalLoss_1.ply,4.0625,inanimate object
+HouseWithoutRoof_LocalLoss_2.ply,3.633333333,inanimate object
+HouseWithoutRoof_LocalLoss_3.ply,2.321428571,inanimate object
+HouseWithoutRoof_LocalLoss_4.ply,2.3,inanimate object
+HouseWithoutRoof_LocalLoss_5.ply,2.1,inanimate object
+HouseWithoutRoof_losslessG-lossyA_3.ply,4.607142857,inanimate object
+HouseWithoutRoof_losslessG-lossyA_4.ply,4.4,inanimate object
+HouseWithoutRoof_losslessG-lossyA_5.ply,3.966666667,inanimate object
+HouseWithoutRoof_losslessG-lossyA_6.ply,3.033333333,inanimate object
+HouseWithoutRoof_losslessG-lossyA_7.ply,2.785714286,inanimate object
+HouseWithoutRoof_QuantizationNoise_1.ply,4.1875,inanimate object
+HouseWithoutRoof_QuantizationNoise_3.ply,3.785714286,inanimate object
+HouseWithoutRoof_QuantizationNoise_4.ply,3.357142857,inanimate object
+HouseWithoutRoof_QuantizationNoise_5.ply,3.642857143,inanimate object
+HouseWithoutRoof_QuantizationNoise_7.ply,2.966666667,inanimate object
+Jaguar_UniformNoise_1.ply,4.928571429,animal
+Jaguar_UniformNoise_3.ply,3.766666667,animal
+Jaguar_UniformNoise_4.ply,3.642857143,animal
+Jaguar_UniformNoise_5.ply,3.285714286,animal
+Jaguar_UniformNoise_7.ply,3.321428571,animal
+jetanima_MultiplicativeGaussianNoise_1.ply,3.5,inanimate object
+jetanima_MultiplicativeGaussianNoise_3.ply,3.321428571,inanimate object
+jetanima_MultiplicativeGaussianNoise_4.ply,2.821428571,inanimate object
+jetanima_MultiplicativeGaussianNoise_5.ply,2.9,inanimate object
+jetanima_MultiplicativeGaussianNoise_7.ply,2.321428571,inanimate object
+jetanima_UniformShifting_1.ply,4.392857143,inanimate object
+jetanima_UniformShifting_2.ply,3.6,inanimate object
+jetanima_UniformShifting_3.ply,3.035714286,inanimate object
+jetanima_UniformShifting_4.ply,2.59375,inanimate object
+jetanima_UniformShifting_5.ply,2.5625,inanimate object
+Kangaroo_lossless-geom-lossy-attrs_3.ply,4.821428571,animal
+Kangaroo_lossless-geom-lossy-attrs_4.ply,4.8125,animal
+Kangaroo_lossless-geom-lossy-attrs_5.ply,4.78125,animal
+Kangaroo_lossless-geom-lossy-attrs_6.ply,4.035714286,animal
+Kangaroo_lossless-geom-lossy-attrs_7.ply,3.857142857,animal
+Kangaroo_UniformShifting_1.ply,4.035714286,animal
+Kangaroo_UniformShifting_2.ply,3.642857143,animal
+Kangaroo_UniformShifting_3.ply,3.035714286,animal
+Kangaroo_UniformShifting_4.ply,2.71875,animal
+Kangaroo_UniformShifting_5.ply,2.571428571,animal
+longdress_losslessG-lossyA_3.ply,4.785714286,human
+longdress_losslessG-lossyA_4.ply,4.142857143,human
+longdress_losslessG-lossyA_5.ply,3.428571429,human
+longdress_losslessG-lossyA_6.ply,2.607142857,human
+longdress_losslessG-lossyA_7.ply,2.3125,human
+longdress_lossy-geom-lossy-attrs_3.ply,4.5,human
+longdress_lossy-geom-lossy-attrs_4.ply,4.1875,human
+longdress_lossy-geom-lossy-attrs_5.ply,2.928571429,human
+longdress_lossy-geom-lossy-attrs_6.ply,1.964285714,human
+longdress_lossy-geom-lossy-attrs_7.ply,1.607142857,human
+longdress_RayleighNoise_1.ply,4,human
+longdress_RayleighNoise_3.ply,3.28125,human
+longdress_RayleighNoise_4.ply,3.033333333,human
+longdress_RayleighNoise_5.ply,2.714285714,human
+longdress_RayleighNoise_7.ply,2.571428571,human
+loot_HighFrequencyNoise_3.ply,3.857142857,human
+loot_HighFrequencyNoise_4.ply,3.214285714,human
+loot_HighFrequencyNoise_5.ply,3.428571429,human
+loot_HighFrequencyNoise_6.ply,2.866666667,human
+loot_HighFrequencyNoise_7.ply,2.857142857,human
+loot_SaltpepperNoise_1.ply,3.214285714,human
+loot_SaltpepperNoise_3.ply,3.392857143,human
+loot_SaltpepperNoise_4.ply,2.5625,human
+loot_SaltpepperNoise_5.ply,2.464285714,human
+loot_SaltpepperNoise_7.ply,2.107142857,human
+lowpolycarsset1_lossless-geom-nearlossless-attrs_3.ply,4.857142857,inanimate object
+lowpolycarsset1_lossless-geom-nearlossless-attrs_4.ply,4.5,inanimate object
+lowpolycarsset1_lossless-geom-nearlossless-attrs_5.ply,4.5,inanimate object
+lowpolycarsset1_lossless-geom-nearlossless-attrs_6.ply,3.392857143,inanimate object
+lowpolycarsset1_lossless-geom-nearlossless-attrs_7.ply,2.7,inanimate object
+lowpolycarsset1_UniformShifting_1.ply,3.928571429,inanimate object
+lowpolycarsset1_UniformShifting_2.ply,3.285714286,inanimate object
+lowpolycarsset1_UniformShifting_3.ply,2.75,inanimate object
+lowpolycarsset1_UniformShifting_4.ply,2.75,inanimate object
+lowpolycarsset1_UniformShifting_5.ply,2.785714286,inanimate object
+lowpolycarsset2_lossy-geom-lossy-attrs_3.ply,4.5,inanimate object
+lowpolycarsset2_lossy-geom-lossy-attrs_4.ply,4.375,inanimate object
+lowpolycarsset2_lossy-geom-lossy-attrs_5.ply,3.928571429,inanimate object
+lowpolycarsset2_lossy-geom-lossy-attrs_6.ply,2.25,inanimate object
+lowpolycarsset2_lossy-geom-lossy-attrs_7.ply,1.892857143,inanimate object
+Man_C2AI-lossy-geom-lossy-attrs_3.ply,4.533333333,human
+Man_C2AI-lossy-geom-lossy-attrs_4.ply,3.928571429,human
+Man_C2AI-lossy-geom-lossy-attrs_5.ply,4.035714286,human
+Man_C2AI-lossy-geom-lossy-attrs_6.ply,3.5,human
+Man_C2AI-lossy-geom-lossy-attrs_7.ply,3.34375,human
+Man_DownSample_3.ply,3.785714286,human
+Man_DownSample_4.ply,3.5,human
+Man_DownSample_5.ply,3.142857143,human
+Man_DownSample_6.ply,3.035714286,human
+Man_DownSample_7.ply,2.375,human
+Man_MeanShift_1.ply,4.035714286,human
+Man_MeanShift_3.ply,3.071428571,human
+Man_MeanShift_4.ply,3.21875,human
+Man_MeanShift_5.ply,2.833333333,human
+Man_MeanShift_7.ply,3,human
+Mario_GaussianNoise_1.ply,3.571428571,cartoon character
+Mario_GaussianNoise_3.ply,3.321428571,cartoon character
+Mario_GaussianNoise_4.ply,3.214285714,cartoon character
+Mario_GaussianNoise_5.ply,2.928571429,cartoon character
+Mario_GaussianNoise_7.ply,2.821428571,cartoon character
+Mario_GaussianShifting_1.ply,4.46875,cartoon character
+Mario_GaussianShifting_2.ply,3.785714286,cartoon character
+Mario_GaussianShifting_3.ply,3.366666667,cartoon character
+Mario_GaussianShifting_4.ply,3,cartoon character
+Mario_GaussianShifting_5.ply,2.714285714,cartoon character
+Mario_Octree_1.ply,3.7,cartoon character
+Mario_Octree_2.ply,3.035714286,cartoon character
+Mario_Octree_3.ply,2.571428571,cartoon character
+Mario_Octree_4.ply,2.5,cartoon character
+Mario_Octree_5.ply,2.392857143,cartoon character
+Mario_reconstruction_3.ply,3.90625,cartoon character
+Mario_reconstruction_4.ply,4.15625,cartoon character
+Mario_reconstruction_5.ply,3.84375,cartoon character
+Mario_reconstruction_6.ply,4.166666667,cartoon character
+Mario_reconstruction_7.ply,3.178571429,cartoon character
+matilda_GaussianShifting_1.ply,3.928571429,human
+matilda_GaussianShifting_2.ply,2.96875,human
+matilda_GaussianShifting_3.ply,2.607142857,human
+matilda_GaussianShifting_4.ply,2.214285714,human
+matilda_GaussianShifting_5.ply,2.333333333,human
+model_ColorNoise_3.ply,3.84375,human
+model_ColorNoise_4.ply,3.5,human
+model_ColorNoise_5.ply,3.178571429,human
+model_ColorNoise_6.ply,2.892857143,human
+model_ColorNoise_7.ply,2.892857143,human
+model_HighFrequencyNoise_3.ply,3.25,human
+model_HighFrequencyNoise_4.ply,3,human
+model_HighFrequencyNoise_5.ply,2.821428571,human
+model_HighFrequencyNoise_6.ply,2.71875,human
+model_HighFrequencyNoise_7.ply,2.533333333,human
+model_SaltpepperNoise_1.ply,3.6,human
+model_SaltpepperNoise_3.ply,2.59375,human
+model_SaltpepperNoise_4.ply,2.428571429,human
+model_SaltpepperNoise_5.ply,2.428571429,human
+model_SaltpepperNoise_7.ply,1.821428571,human
+MuteSwan_lossless-geom-lossy-attrs_3.ply,4.53125,animal
+MuteSwan_lossless-geom-lossy-attrs_4.ply,4.233333333,animal
+MuteSwan_lossless-geom-lossy-attrs_5.ply,4.071428571,animal
+MuteSwan_lossless-geom-lossy-attrs_6.ply,3.678571429,animal
+MuteSwan_lossless-geom-lossy-attrs_7.ply,3.25,animal
+MuteSwan_UniformShifting_1.ply,4.3,animal
+MuteSwan_UniformShifting_2.ply,3.714285714,animal
+MuteSwan_UniformShifting_3.ply,3.09375,animal
+MuteSwan_UniformShifting_4.ply,2.821428571,animal
+MuteSwan_UniformShifting_5.ply,2.642857143,animal
+ParrotV1_lossless-geom-nearlossless-attrs_3.ply,4.9,animal
+ParrotV1_lossless-geom-nearlossless-attrs_4.ply,4.625,animal
+ParrotV1_lossless-geom-nearlossless-attrs_5.ply,4.5625,animal
+ParrotV1_lossless-geom-nearlossless-attrs_6.ply,3.928571429,animal
+ParrotV1_lossless-geom-nearlossless-attrs_7.ply,2.78125,animal
+PjanicFace_GammaNoise_1.ply,3.5625,human
+PjanicFace_GammaNoise_3.ply,2.964285714,human
+PjanicFace_GammaNoise_4.ply,3.15625,human
+PjanicFace_GammaNoise_5.ply,2.821428571,human
+PjanicFace_GammaNoise_7.ply,2.392857143,human
+PjanicFace_MeanShift_1.ply,4.1875,human
+PjanicFace_MeanShift_3.ply,3.107142857,human
+PjanicFace_MeanShift_4.ply,3.321428571,human
+PjanicFace_MeanShift_5.ply,2.892857143,human
+PjanicFace_MeanShift_7.ply,3.321428571,human
+QQdog_ColorQuantizationDither_3.ply,4.3125,inanimate object
+QQdog_ColorQuantizationDither_4.ply,4.033333333,inanimate object
+QQdog_ColorQuantizationDither_5.ply,4.25,inanimate object
+QQdog_ColorQuantizationDither_6.ply,3.1875,inanimate object
+QQdog_ColorQuantizationDither_7.ply,2.285714286,inanimate object
+QQdog_MeanShift_1.ply,4.535714286,inanimate object
+QQdog_MeanShift_3.ply,3.71875,inanimate object
+QQdog_MeanShift_4.ply,3.033333333,inanimate object
+QQdog_MeanShift_5.ply,2.866666667,inanimate object
+QQdog_MeanShift_7.ply,2.428571429,inanimate object
+queen_ColorNoise_3.ply,3.666666667,human
+queen_ColorNoise_4.ply,3.392857143,human
+queen_ColorNoise_5.ply,3.392857143,human
+queen_ColorNoise_6.ply,2.892857143,human
+queen_ColorNoise_7.ply,2.90625,human
+queen_LocalLoss_1.ply,3.1,human
+queen_LocalLoss_2.ply,2.678571429,human
+queen_LocalLoss_3.ply,1.607142857,human
+queen_LocalLoss_4.ply,1.678571429,human
+queen_LocalLoss_5.ply,1.321428571,human
+queen_SaturationDistortion_1.ply,4.4375,human
+queen_SaturationDistortion_2.ply,3.678571429,human
+queen_SaturationDistortion_3.ply,2.90625,human
+queen_SaturationDistortion_4.ply,2.535714286,human
+queen_SaturationDistortion_5.ply,2.5,human
+RattleSnake_lossless-geom-nearlossless-attrs_3.ply,4.75,animal
+RattleSnake_lossless-geom-nearlossless-attrs_4.ply,4.785714286,animal
+RattleSnake_lossless-geom-nearlossless-attrs_5.ply,4.7,animal
+RattleSnake_lossless-geom-nearlossless-attrs_6.ply,3.107142857,animal
+RattleSnake_lossless-geom-nearlossless-attrs_7.ply,2.285714286,animal
+redandblack_ColorQuantizationDither_3.ply,3.821428571,human
+redandblack_ColorQuantizationDither_4.ply,3.678571429,human
+redandblack_ColorQuantizationDither_5.ply,3.642857143,human
+redandblack_ColorQuantizationDither_6.ply,3.25,human
+redandblack_ColorQuantizationDither_7.ply,2.233333333,human
+redandblack_LocalLoss_1.ply,4.566666667,human
+redandblack_LocalLoss_2.ply,2.966666667,human
+redandblack_LocalLoss_3.ply,3.607142857,human
+redandblack_LocalLoss_4.ply,3,human
+redandblack_LocalLoss_5.ply,2,human
+redandblack_SaturationDistortion_1.ply,4.2,human
+redandblack_SaturationDistortion_2.ply,3.535714286,human
+redandblack_SaturationDistortion_3.ply,2.9,human
+redandblack_SaturationDistortion_4.ply,2.571428571,human
+redandblack_SaturationDistortion_5.ply,2.7,human
+RedHorse_LocalRotation_1.ply,3.066666667,animal
+RedHorse_LocalRotation_2.ply,2.642857143,animal
+RedHorse_LocalRotation_3.ply,2.214285714,animal
+RedHorse_LocalRotation_4.ply,1.266666667,animal
+RedHorse_LocalRotation_5.ply,1,animal
+Rock1_ContrastDistortion_1.ply,3.607142857,inanimate object
+Rock1_ContrastDistortion_2.ply,2.5,inanimate object
+Rock1_ContrastDistortion_3.ply,1.785714286,inanimate object
+Rock1_ContrastDistortion_4.ply,1.666666667,inanimate object
+Rock1_ContrastDistortion_5.ply,1.214285714,inanimate object
+Rock1_lossless-geom-lossy-attrs_3.ply,4.566666667,inanimate object
+Rock1_lossless-geom-lossy-attrs_4.ply,4.5,inanimate object
+Rock1_lossless-geom-lossy-attrs_5.ply,3.892857143,inanimate object
+Rock1_lossless-geom-lossy-attrs_6.ply,3.533333333,inanimate object
+Rock1_lossless-geom-lossy-attrs_7.ply,2.84375,inanimate object
+Rock1_Octree_1.ply,4.033333333,inanimate object
+Rock1_Octree_2.ply,2.875,inanimate object
+Rock1_Octree_3.ply,2.571428571,inanimate object
+Rock1_Octree_4.ply,2.214285714,inanimate object
+Rock1_Octree_5.ply,2.107142857,inanimate object
+Rock1_SaturationDistortion_1.ply,3.821428571,inanimate object
+Rock1_SaturationDistortion_2.ply,3.464285714,inanimate object
+Rock1_SaturationDistortion_3.ply,2.714285714,inanimate object
+Rock1_SaturationDistortion_4.ply,2.607142857,inanimate object
+Rock1_SaturationDistortion_5.ply,2.625,inanimate object
+RpClaudiaRigged_UniformNoise_1.ply,4.535714286,human
+RpClaudiaRigged_UniformNoise_3.ply,3.46875,human
+RpClaudiaRigged_UniformNoise_4.ply,3.107142857,human
+RpClaudiaRigged_UniformNoise_5.ply,2.892857143,human
+RpClaudiaRigged_UniformNoise_7.ply,2.821428571,human
+RpDennisPosed004_ColorQuantizationDither_3.ply,3.78125,human
+RpDennisPosed004_ColorQuantizationDither_4.ply,3.5,human
+RpDennisPosed004_ColorQuantizationDither_5.ply,2.5,human
+RpDennisPosed004_ColorQuantizationDither_6.ply,2.75,human
+RpDennisPosed004_ColorQuantizationDither_7.ply,2.464285714,human
+RpDennisPosed004_LocalOffset_1.ply,2.75,human
+RpDennisPosed004_LocalOffset_2.ply,2.7,human
+RpDennisPosed004_LocalOffset_3.ply,2.392857143,human
+RpDennisPosed004_LocalOffset_4.ply,1.21875,human
+RpDennisPosed004_LocalOffset_5.ply,1.214285714,human
+RpDennisPosed004_UniformNoise_1.ply,4.821428571,human
+RpDennisPosed004_UniformNoise_3.ply,3.678571429,human
+RpDennisPosed004_UniformNoise_4.ply,3.4375,human
+RpDennisPosed004_UniformNoise_5.ply,3.34375,human
+RpDennisPosed004_UniformNoise_7.ply,2.964285714,human
+RpFabiennePercyPosed001_ContrastDistortion_1.ply,3.8,human
+RpFabiennePercyPosed001_ContrastDistortion_2.ply,3.821428571,human
+RpFabiennePercyPosed001_ContrastDistortion_3.ply,3.178571429,human
+RpFabiennePercyPosed001_ContrastDistortion_4.ply,2.714285714,human
+RpFabiennePercyPosed001_ContrastDistortion_5.ply,2.533333333,human
+RpFabiennePercyPosed001_LocalOffset_1.ply,4.466666667,human
+RpFabiennePercyPosed001_LocalOffset_2.ply,3.5,human
+RpFabiennePercyPosed001_LocalOffset_3.ply,2.785714286,human
+RpFabiennePercyPosed001_LocalOffset_4.ply,2.571428571,human
+RpFabiennePercyPosed001_LocalOffset_5.ply,1.892857143,human
+RpFabiennePercyPosed001_UniformShifting_1.ply,3.928571429,human
+RpFabiennePercyPosed001_UniformShifting_2.ply,3.071428571,human
+RpFabiennePercyPosed001_UniformShifting_3.ply,2.625,human
+RpFabiennePercyPosed001_UniformShifting_4.ply,2.1875,human
+RpFabiennePercyPosed001_UniformShifting_5.ply,1.928571429,human
+RpManuelAnimated001Dancing_CorrelatedGaussianNoise_1.ply,4.533333333,human
+RpManuelAnimated001Dancing_CorrelatedGaussianNoise_2.ply,3.5,human
+RpManuelAnimated001Dancing_CorrelatedGaussianNoise_3.ply,3.25,human
+RpManuelAnimated001Dancing_CorrelatedGaussianNoise_4.ply,3.142857143,human
+RpManuelAnimated001Dancing_CorrelatedGaussianNoise_5.ply,3,human
+RpManuelAnimated001Dancing_LocalRotation_1.ply,3.142857143,human
+RpManuelAnimated001Dancing_LocalRotation_2.ply,2.321428571,human
+RpManuelAnimated001Dancing_LocalRotation_3.ply,2.266666667,human
+RpManuelAnimated001Dancing_LocalRotation_4.ply,2.035714286,human
+RpManuelAnimated001Dancing_LocalRotation_5.ply,1.392857143,human
+RpManuelAnimated001Dancing_UniformShifting_1.ply,4.15625,human
+RpManuelAnimated001Dancing_UniformShifting_2.ply,4.071428571,human
+RpManuelAnimated001Dancing_UniformShifting_3.ply,2.892857143,human
+RpManuelAnimated001Dancing_UniformShifting_4.ply,2.46875,human
+RpManuelAnimated001Dancing_UniformShifting_5.ply,2.2,human
+RpMeiPosed001_CorrelatedGaussianNoise_1.ply,4,human
+RpMeiPosed001_CorrelatedGaussianNoise_2.ply,3.607142857,human
+RpMeiPosed001_CorrelatedGaussianNoise_3.ply,3.285714286,human
+RpMeiPosed001_CorrelatedGaussianNoise_4.ply,3.071428571,human
+RpMeiPosed001_CorrelatedGaussianNoise_5.ply,3.066666667,human
+RpMeiPosed001_LocalRotation_1.ply,2.375,human
+RpMeiPosed001_LocalRotation_2.ply,2.3,human
+RpMeiPosed001_LocalRotation_3.ply,2.34375,human
+RpMeiPosed001_LocalRotation_4.ply,1.65625,human
+RpMeiPosed001_LocalRotation_5.ply,1.642857143,human
+RyukinGoldfish_lossy-geom-lossy-attrs_3.ply,4.678571429,animal
+RyukinGoldfish_lossy-geom-lossy-attrs_4.ply,4.466666667,animal
+RyukinGoldfish_lossy-geom-lossy-attrs_5.ply,3.821428571,animal
+RyukinGoldfish_lossy-geom-lossy-attrs_6.ply,2.928571429,animal
+RyukinGoldfish_lossy-geom-lossy-attrs_7.ply,2.107142857,animal
+ScarletSnake_lossy-geom-lossy-attrs_3.ply,4.714285714,animal
+ScarletSnake_lossy-geom-lossy-attrs_4.ply,4.5625,animal
+ScarletSnake_lossy-geom-lossy-attrs_5.ply,3.833333333,animal
+ScarletSnake_lossy-geom-lossy-attrs_6.ply,3,animal
+ScarletSnake_lossy-geom-lossy-attrs_7.ply,2.071428571,animal
+SeaTurtle_HighFrequencyNoise_3.ply,4.285714286,animal
+SeaTurtle_HighFrequencyNoise_4.ply,4.178571429,animal
+SeaTurtle_HighFrequencyNoise_5.ply,3.892857143,animal
+SeaTurtle_HighFrequencyNoise_6.ply,3.5,animal
+SeaTurtle_HighFrequencyNoise_7.ply,3,animal
+Shark_HighFrequencyNoise_3.ply,3.866666667,animal
+Shark_HighFrequencyNoise_4.ply,3.5,animal
+Shark_HighFrequencyNoise_5.ply,3.464285714,animal
+Shark_HighFrequencyNoise_6.ply,3.142857143,animal
+Shark_HighFrequencyNoise_7.ply,2.678571429,animal
+Soccer_CorrelatedGaussianNoise_1.ply,3.9,inanimate object
+Soccer_CorrelatedGaussianNoise_2.ply,3.5,inanimate object
+Soccer_CorrelatedGaussianNoise_3.ply,3.357142857,inanimate object
+Soccer_CorrelatedGaussianNoise_4.ply,3,inanimate object
+Soccer_CorrelatedGaussianNoise_5.ply,2.75,inanimate object
+Soccer_MeanShift_1.ply,4.125,inanimate object
+Soccer_MeanShift_3.ply,3.2,inanimate object
+Soccer_MeanShift_4.ply,2.678571429,inanimate object
+Soccer_MeanShift_5.ply,2.714285714,inanimate object
+Soccer_MeanShift_7.ply,1.142857143,inanimate object
+soldier_DownSample_3.ply,4.178571429,human
+soldier_DownSample_4.ply,3.928571429,human
+soldier_DownSample_5.ply,3.642857143,human
+soldier_DownSample_6.ply,3.0625,human
+soldier_DownSample_7.ply,2.392857143,human
+soldier_LumaNoise_1.ply,4.066666667,human
+soldier_LumaNoise_3.ply,3.21875,human
+soldier_LumaNoise_4.ply,3.09375,human
+soldier_LumaNoise_5.ply,3.1875,human
+soldier_LumaNoise_7.ply,2.357142857,human
+SpiderMonkey_C2AI-lossy-geom-lossy-attrs_3.ply,4.964285714,animal
+SpiderMonkey_C2AI-lossy-geom-lossy-attrs_4.ply,4.5625,animal
+SpiderMonkey_C2AI-lossy-geom-lossy-attrs_5.ply,4,animal
+SpiderMonkey_C2AI-lossy-geom-lossy-attrs_6.ply,3.464285714,animal
+SpiderMonkey_C2AI-lossy-geom-lossy-attrs_7.ply,3,animal
+SpiderMonkey_LocalLoss_1.ply,3.821428571,animal
+SpiderMonkey_LocalLoss_2.ply,3.607142857,animal
+SpiderMonkey_LocalLoss_3.ply,2.53125,animal
+SpiderMonkey_LocalLoss_4.ply,2.3,animal
+SpiderMonkey_LocalLoss_5.ply,2.214285714,animal
+Statue_GammaNoise_1.ply,3.3,inanimate object
+Statue_GammaNoise_3.ply,2.966666667,inanimate object
+Statue_GammaNoise_4.ply,3.142857143,inanimate object
+Statue_GammaNoise_5.ply,2.857142857,inanimate object
+Statue_GammaNoise_7.ply,2.285714286,inanimate object
+Statue_HighFrequencyNoise_3.ply,3.533333333,inanimate object
+Statue_HighFrequencyNoise_4.ply,3.3,inanimate object
+Statue_HighFrequencyNoise_5.ply,3.375,inanimate object
+Statue_HighFrequencyNoise_6.ply,3.1875,inanimate object
+Statue_HighFrequencyNoise_7.ply,2.285714286,inanimate object
+Statue_limitlossyG-lossyA_3.ply,4.892857143,inanimate object
+Statue_limitlossyG-lossyA_4.ply,4.4375,inanimate object
+Statue_limitlossyG-lossyA_5.ply,2.75,inanimate object
+Statue_limitlossyG-lossyA_6.ply,2.071428571,inanimate object
+Statue_limitlossyG-lossyA_7.ply,1.642857143,inanimate object
+Statue_PoissonNoise_3.ply,3.90625,inanimate object
+Statue_PoissonNoise_4.ply,3.633333333,inanimate object
+Statue_PoissonNoise_5.ply,3.625,inanimate object
+Statue_PoissonNoise_6.ply,3.3,inanimate object
+Statue_PoissonNoise_7.ply,3.46875,inanimate object
+StreetRoad_losslessG-lossyA_3.ply,4.714285714,inanimate object
+StreetRoad_losslessG-lossyA_4.ply,4.666666667,inanimate object
+StreetRoad_losslessG-lossyA_5.ply,4.071428571,inanimate object
+StreetRoad_losslessG-lossyA_6.ply,3.321428571,inanimate object
+StreetRoad_losslessG-lossyA_7.ply,3,inanimate object
+StreetRoad_SaltpepperNoise_1.ply,3.7,inanimate object
+StreetRoad_SaltpepperNoise_3.ply,2.75,inanimate object
+StreetRoad_SaltpepperNoise_4.ply,2.875,inanimate object
+StreetRoad_SaltpepperNoise_5.ply,2.933333333,inanimate object
+StreetRoad_SaltpepperNoise_7.ply,2.71875,inanimate object
+Table_SaturationDistortion_1.ply,4.321428571,inanimate object
+Table_SaturationDistortion_2.ply,3.285714286,inanimate object
+Table_SaturationDistortion_3.ply,3.133333333,inanimate object
+Table_SaturationDistortion_4.ply,2.607142857,inanimate object
+Table_SaturationDistortion_5.ply,2.464285714,inanimate object
+Thaidancer_C2AI-lossy-geom-lossy-attrs_3.ply,4.357142857,human
+Thaidancer_C2AI-lossy-geom-lossy-attrs_4.ply,4.0625,human
+Thaidancer_C2AI-lossy-geom-lossy-attrs_5.ply,3.071428571,human
+Thaidancer_C2AI-lossy-geom-lossy-attrs_6.ply,2.178571429,human
+Thaidancer_C2AI-lossy-geom-lossy-attrs_7.ply,2.321428571,human
+Thaidancer_ContrastDistortion_1.ply,4.433333333,human
+Thaidancer_ContrastDistortion_2.ply,3.466666667,human
+Thaidancer_ContrastDistortion_3.ply,3.1875,human
+Thaidancer_ContrastDistortion_4.ply,3.357142857,human
+Thaidancer_ContrastDistortion_5.ply,2.535714286,human
+Thaidancer_LumaNoise_1.ply,4.25,human
+Thaidancer_LumaNoise_3.ply,3.633333333,human
+Thaidancer_LumaNoise_4.ply,3.107142857,human
+Thaidancer_LumaNoise_5.ply,3.035714286,human
+Thaidancer_LumaNoise_7.ply,2.678571429,human
+TibetanFox_LocalLoss_1.ply,2.75,animal
+TibetanFox_LocalLoss_2.ply,2.535714286,animal
+TibetanFox_LocalLoss_3.ply,1.75,animal
+TibetanFox_LocalLoss_4.ply,2,animal
+TibetanFox_LocalLoss_5.ply,2.071428571,animal
+ToyDog_DownSample_3.ply,4.285714286,inanimate object
+ToyDog_DownSample_4.ply,3.678571429,inanimate object
+ToyDog_DownSample_5.ply,2.642857143,inanimate object
+ToyDog_DownSample_6.ply,2.642857143,inanimate object
+ToyDog_DownSample_7.ply,2.178571429,inanimate object
+ToyDog_lossless-geom-nearlossless-attrs_3.ply,4.933333333,inanimate object
+ToyDog_lossless-geom-nearlossless-attrs_4.ply,4.928571429,inanimate object
+ToyDog_lossless-geom-nearlossless-attrs_5.ply,3.5,inanimate object
+ToyDog_lossless-geom-nearlossless-attrs_6.ply,2.90625,inanimate object
+ToyDog_lossless-geom-nearlossless-attrs_7.ply,1.607142857,inanimate object
+ToyDog_MultiplicativeGaussianNoise_1.ply,3.928571429,inanimate object
+ToyDog_MultiplicativeGaussianNoise_3.ply,3.464285714,inanimate object
+ToyDog_MultiplicativeGaussianNoise_4.ply,3.40625,inanimate object
+ToyDog_MultiplicativeGaussianNoise_5.ply,2.892857143,inanimate object
+ToyDog_MultiplicativeGaussianNoise_7.ply,2.928571429,inanimate object
+ToyDog_reconstruction_3.ply,3.7,inanimate object
+ToyDog_reconstruction_4.ply,2.785714286,inanimate object
+ToyDog_reconstruction_5.ply,3.0625,inanimate object
+ToyDog_reconstruction_6.ply,2.714285714,inanimate object
+ToyDog_reconstruction_7.ply,2.357142857,inanimate object
+ToyDog_UniformNoise_1.ply,4.9,inanimate object
+ToyDog_UniformNoise_3.ply,3.75,inanimate object
+ToyDog_UniformNoise_4.ply,3.464285714,inanimate object
+ToyDog_UniformNoise_5.ply,3.357142857,inanimate object
+ToyDog_UniformNoise_7.ply,3,inanimate object
+Truck_ColorQuantizationDither_3.ply,3.821428571,inanimate object
+Truck_ColorQuantizationDither_4.ply,3.071428571,inanimate object
+Truck_ColorQuantizationDither_5.ply,2.65625,inanimate object
+Truck_ColorQuantizationDither_6.ply,2.46875,inanimate object
+Truck_ColorQuantizationDither_7.ply,1.964285714,inanimate object
+Truck_lossy-geom-lossy-attrs_3.ply,4.571428571,inanimate object
+Truck_lossy-geom-lossy-attrs_4.ply,4.285714286,inanimate object
+Truck_lossy-geom-lossy-attrs_5.ply,3.8125,inanimate object
+Truck_lossy-geom-lossy-attrs_6.ply,3,inanimate object
+Truck_lossy-geom-lossy-attrs_7.ply,1.428571429,inanimate object
+Truck_PoissonNoise_3.ply,4.107142857,inanimate object
+Truck_PoissonNoise_4.ply,3.678571429,inanimate object
+Truck_PoissonNoise_5.ply,3.857142857,inanimate object
+Truck_PoissonNoise_6.ply,3.178571429,inanimate object
+Truck_PoissonNoise_7.ply,3.133333333,inanimate object
+Whale_LocalOffset_1.ply,4.285714286,animal
+Whale_LocalOffset_2.ply,3,animal
+Whale_LocalOffset_3.ply,2.107142857,animal
+Whale_LocalOffset_4.ply,2.1,animal
+Whale_LocalOffset_5.ply,1.678571429,animal
+WhiteTailedDeer_C2AI-lossy-geom-lossy-attrs_3.ply,4.433333333,animal
+WhiteTailedDeer_C2AI-lossy-geom-lossy-attrs_4.ply,3.857142857,animal
+WhiteTailedDeer_C2AI-lossy-geom-lossy-attrs_5.ply,4.071428571,animal
+WhiteTailedDeer_C2AI-lossy-geom-lossy-attrs_6.ply,3.142857143,animal
+WhiteTailedDeer_C2AI-lossy-geom-lossy-attrs_7.ply,2.833333333,animal
+WhiteTailedDeer_LocalOffset_1.ply,3.5,animal
+WhiteTailedDeer_LocalOffset_2.ply,2.75,animal
+WhiteTailedDeer_LocalOffset_3.ply,2.6875,animal
+WhiteTailedDeer_LocalOffset_4.ply,2,animal
+WhiteTailedDeer_LocalOffset_5.ply,2,animal
+Wood_DownSample_3.ply,4.3,inanimate object
+Wood_DownSample_4.ply,4.25,inanimate object
+Wood_DownSample_5.ply,3.857142857,inanimate object
+Wood_DownSample_6.ply,2.857142857,inanimate object
+Wood_DownSample_7.ply,2.46875,inanimate object
+Wood_Octree_1.ply,2.84375,inanimate object
+Wood_Octree_2.ply,2.375,inanimate object
+Wood_Octree_3.ply,2.071428571,inanimate object
+Wood_Octree_4.ply,1.607142857,inanimate object
+Wood_Octree_5.ply,1.733333333,inanimate object
+Wood_UniformNoise_1.ply,4.642857143,inanimate object
+Wood_UniformNoise_3.ply,3.857142857,inanimate object
+Wood_UniformNoise_4.ply,4,inanimate object
+Wood_UniformNoise_5.ply,3.071428571,inanimate object
+Wood_UniformNoise_7.ply,3.107142857,inanimate object

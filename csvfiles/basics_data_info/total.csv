@@ -1,0 +1,1495 @@
+name,mos,class
+p01_geocnn_r01.ply,1.079650616,human
+p01_geocnn_r02.ply,1.057185451,human
+p01_geocnn_r03.ply,3.759313116,human
+p01_geocnn_r04.ply,3.754941272,human
+p01_gpcc-octree-predlift_r02.ply,2.10577713,human
+p01_gpcc-octree-predlift_r03.ply,3.361438653,human
+p01_gpcc-octree-predlift_r04.ply,3.764877812,human
+p01_gpcc-octree-predlift_r05.ply,4.253538797,human
+p01_gpcc-octree-predlift_r06.ply,4.267853103,human
+p01_gpcc-octree-raht_r02.ply,1.640837245,human
+p01_gpcc-octree-raht_r03.ply,3.127493275,human
+p01_gpcc-octree-raht_r04.ply,3.848859276,human
+p01_gpcc-octree-raht_r05.ply,4.600221832,human
+p01_gpcc-octree-raht_r06.ply,4.541709218,human
+p01_vpcc_r00.ply,2.106820791,human
+p01_vpcc_r01.ply,2.789528824,human
+p01_vpcc_r02.ply,3.054361367,human
+p01_vpcc_r03.ply,3.138312381,human
+p01_vpcc_r04.ply,3.388373001,human
+p01_vpcc_r05.ply,3.945140631,human
+p02_geocnn_r01.ply,1.965844382,human
+p02_geocnn_r02.ply,3.211647192,human
+p02_geocnn_r03.ply,3.26541245,human
+p02_geocnn_r04.ply,3.419199486,human
+p02_gpcc-octree-predlift_r02.ply,1.362266575,human
+p02_gpcc-octree-predlift_r03.ply,2.345566281,human
+p02_gpcc-octree-predlift_r04.ply,3.970275047,human
+p02_gpcc-octree-predlift_r05.ply,4.230449152,human
+p02_gpcc-octree-predlift_r06.ply,4.469620757,human
+p02_gpcc-octree-raht_r02.ply,1.217866914,human
+p02_gpcc-octree-raht_r03.ply,2.015791978,human
+p02_gpcc-octree-raht_r04.ply,3.488314819,human
+p02_gpcc-octree-raht_r05.ply,4.093309243,human
+p02_gpcc-octree-raht_r06.ply,4.331084171,human
+p02_vpcc_r00.ply,1.609645248,human
+p02_vpcc_r01.ply,2.167550799,human
+p02_vpcc_r02.ply,3.093927394,human
+p02_vpcc_r03.ply,3.487489458,human
+p02_vpcc_r04.ply,3.485205725,human
+p02_vpcc_r05.ply,3.974665036,human
+p03_geocnn_r01.ply,2.494971006,human
+p03_geocnn_r02.ply,2.984772688,human
+p03_geocnn_r03.ply,3.648791077,human
+p03_geocnn_r04.ply,3.372937088,human
+p03_gpcc-octree-predlift_r02.ply,1.441520894,human
+p03_gpcc-octree-predlift_r03.ply,3.070750499,human
+p03_gpcc-octree-predlift_r04.ply,4.072438741,human
+p03_gpcc-octree-predlift_r05.ply,3.990986114,human
+p03_gpcc-octree-predlift_r06.ply,4.314907765,human
+p03_gpcc-octree-raht_r02.ply,1.489301506,human
+p03_gpcc-octree-raht_r03.ply,2.917084131,human
+p03_gpcc-octree-raht_r04.ply,3.835404797,human
+p03_gpcc-octree-raht_r05.ply,4.295872353,human
+p03_gpcc-octree-raht_r06.ply,4.510437144,human
+p03_vpcc_r00.ply,2.119991233,human
+p03_vpcc_r01.ply,2.941540814,human
+p03_vpcc_r02.ply,2.947343613,human
+p03_vpcc_r03.ply,3.552730908,human
+p03_vpcc_r04.ply,3.572730463,human
+p03_vpcc_r05.ply,3.798203654,human
+p04_geocnn_r01.ply,4.251724154,human
+p04_geocnn_r02.ply,4.280860612,human
+p04_geocnn_r03.ply,4.573453185,human
+p04_geocnn_r04.ply,4.198448997,human
+p04_gpcc-octree-predlift_r02.ply,1.654943262,human
+p04_gpcc-octree-predlift_r03.ply,3.560143642,human
+p04_gpcc-octree-predlift_r04.ply,3.943337515,human
+p04_gpcc-octree-predlift_r05.ply,4.493860503,human
+p04_gpcc-octree-predlift_r06.ply,4.605964249,human
+p04_gpcc-octree-raht_r02.ply,1.246800485,human
+p04_gpcc-octree-raht_r03.ply,3.218501963,human
+p04_gpcc-octree-raht_r04.ply,4.137873656,human
+p04_gpcc-octree-raht_r05.ply,4.570503837,human
+p04_gpcc-octree-raht_r06.ply,4.42170779,human
+p04_vpcc_r00.ply,1.78564099,human
+p04_vpcc_r01.ply,2.575352327,human
+p04_vpcc_r02.ply,3.782959251,human
+p04_vpcc_r03.ply,4.252626171,human
+p04_vpcc_r04.ply,4.654528969,human
+p04_vpcc_r05.ply,4.752876209,human
+p05_geocnn_r01.ply,1.824295578,human
+p05_geocnn_r02.ply,2.699776641,human
+p05_geocnn_r03.ply,3.286476199,human
+p05_geocnn_r04.ply,3.000590654,human
+p05_gpcc-octree-predlift_r02.ply,1.468168702,human
+p05_gpcc-octree-predlift_r03.ply,2.936357398,human
+p05_gpcc-octree-predlift_r04.ply,3.526917089,human
+p05_gpcc-octree-predlift_r05.ply,3.941627292,human
+p05_gpcc-octree-predlift_r06.ply,4.185825236,human
+p05_gpcc-octree-raht_r02.ply,1.337513808,human
+p05_gpcc-octree-raht_r03.ply,2.537219445,human
+p05_gpcc-octree-raht_r04.ply,3.32377992,human
+p05_gpcc-octree-raht_r05.ply,3.965411157,human
+p05_gpcc-octree-raht_r06.ply,4.229402555,human
+p05_vpcc_r00.ply,1.941959996,human
+p05_vpcc_r01.ply,2.62508473,human
+p05_vpcc_r02.ply,2.907098425,human
+p05_vpcc_r03.ply,3.379222859,human
+p05_vpcc_r04.ply,3.39391684,human
+p05_vpcc_r05.ply,3.703262717,human
+p06_geocnn_r01.ply,2.384325762,human
+p06_geocnn_r02.ply,3.879698817,human
+p06_geocnn_r03.ply,4.097189166,human
+p06_geocnn_r04.ply,4.376373477,human
+p06_gpcc-octree-predlift_r02.ply,1.712150219,human
+p06_gpcc-octree-predlift_r03.ply,2.852359723,human
+p06_gpcc-octree-predlift_r04.ply,3.725223464,human
+p06_gpcc-octree-predlift_r05.ply,4.24186257,human
+p06_gpcc-octree-predlift_r06.ply,4.480804488,human
+p06_gpcc-octree-raht_r02.ply,1.749148663,human
+p06_gpcc-octree-raht_r03.ply,2.430517939,human
+p06_gpcc-octree-raht_r04.ply,3.37367289,human
+p06_gpcc-octree-raht_r05.ply,3.917336336,human
+p06_gpcc-octree-raht_r06.ply,4.287034287,human
+p06_vpcc_r00.ply,2.348410981,human
+p06_vpcc_r01.ply,2.745768291,human
+p06_vpcc_r02.ply,3.084227714,human
+p06_vpcc_r03.ply,3.214316529,human
+p06_vpcc_r04.ply,3.646175581,human
+p06_vpcc_r05.ply,3.98734891,human
+p07_geocnn_r01.ply,2.690543988,human
+p07_geocnn_r02.ply,3.239723119,human
+p07_geocnn_r03.ply,4.100585412,human
+p07_geocnn_r04.ply,4.062528369,human
+p07_gpcc-octree-predlift_r02.ply,1.401941613,human
+p07_gpcc-octree-predlift_r03.ply,2.664384082,human
+p07_gpcc-octree-predlift_r04.ply,3.73758783,human
+p07_gpcc-octree-predlift_r05.ply,4.220238452,human
+p07_gpcc-octree-predlift_r06.ply,4.607404622,human
+p07_gpcc-octree-raht_r02.ply,1.245858544,human
+p07_gpcc-octree-raht_r03.ply,2.336955342,human
+p07_gpcc-octree-raht_r04.ply,3.214282756,human
+p07_gpcc-octree-raht_r05.ply,4.318583015,human
+p07_gpcc-octree-raht_r06.ply,4.477436808,human
+p07_vpcc_r00.ply,1.694025541,human
+p07_vpcc_r01.ply,2.043938726,human
+p07_vpcc_r02.ply,2.767239517,human
+p07_vpcc_r03.ply,2.81291795,human
+p07_vpcc_r04.ply,3.426279779,human
+p07_vpcc_r05.ply,3.741378541,human
+p08_geocnn_r01.ply,2.429087545,human
+p08_geocnn_r02.ply,3.735764754,human
+p08_geocnn_r03.ply,4.1367413,human
+p08_geocnn_r04.ply,4.104904483,human
+p08_gpcc-octree-predlift_r02.ply,1.614949602,human
+p08_gpcc-octree-predlift_r03.ply,2.956578653,human
+p08_gpcc-octree-predlift_r04.ply,3.732212392,human
+p08_gpcc-octree-predlift_r05.ply,4.310254988,human
+p08_gpcc-octree-predlift_r06.ply,4.391323219,human
+p08_gpcc-octree-raht_r02.ply,1.267809571,human
+p08_gpcc-octree-raht_r03.ply,2.604661488,human
+p08_gpcc-octree-raht_r04.ply,3.239282824,human
+p08_gpcc-octree-raht_r05.ply,4.124334682,human
+p08_gpcc-octree-raht_r06.ply,4.431288022,human
+p08_vpcc_r00.ply,1.789625175,human
+p08_vpcc_r01.ply,2.602180168,human
+p08_vpcc_r02.ply,3.172447138,human
+p08_vpcc_r03.ply,3.426271716,human
+p08_vpcc_r04.ply,3.368283843,human
+p08_vpcc_r05.ply,3.856686918,human
+p09_geocnn_r01.ply,2.029279045,human
+p09_geocnn_r02.ply,3.358737123,human
+p09_geocnn_r03.ply,3.986305935,human
+p09_geocnn_r04.ply,3.430914241,human
+p09_gpcc-octree-predlift_r02.ply,1.401000599,human
+p09_gpcc-octree-predlift_r03.ply,2.444660481,human
+p09_gpcc-octree-predlift_r04.ply,3.863616255,human
+p09_gpcc-octree-predlift_r05.ply,4.387176025,human
+p09_gpcc-octree-predlift_r06.ply,4.449430409,human
+p09_gpcc-octree-raht_r02.ply,1.142261459,human
+p09_gpcc-octree-raht_r03.ply,2.247466686,human
+p09_gpcc-octree-raht_r04.ply,3.750752886,human
+p09_gpcc-octree-raht_r05.ply,4.363485841,human
+p09_gpcc-octree-raht_r06.ply,4.597731404,human
+p09_vpcc_r00.ply,1.625237576,human
+p09_vpcc_r01.ply,2.280851516,human
+p09_vpcc_r02.ply,2.529170141,human
+p09_vpcc_r03.ply,2.772501702,human
+p09_vpcc_r04.ply,3.520804745,human
+p09_vpcc_r05.ply,3.375537066,human
+p10_geocnn_r01.ply,2.741973317,human
+p10_geocnn_r02.ply,3.687188368,human
+p10_geocnn_r03.ply,3.952811549,human
+p10_geocnn_r04.ply,4.007884046,human
+p10_gpcc-octree-predlift_r02.ply,1.68182911,human
+p10_gpcc-octree-predlift_r03.ply,3.276278475,human
+p10_gpcc-octree-predlift_r04.ply,4.089330433,human
+p10_gpcc-octree-predlift_r05.ply,4.429640202,human
+p10_gpcc-octree-predlift_r06.ply,4.490733055,human
+p10_gpcc-octree-raht_r02.ply,1.673145022,human
+p10_gpcc-octree-raht_r03.ply,2.684987908,human
+p10_gpcc-octree-raht_r04.ply,3.951900556,human
+p10_gpcc-octree-raht_r05.ply,4.277341627,human
+p10_gpcc-octree-raht_r06.ply,4.463327317,human
+p10_vpcc_r00.ply,2.155001879,human
+p10_vpcc_r01.ply,2.686806095,human
+p10_vpcc_r02.ply,2.971406972,human
+p10_vpcc_r03.ply,3.337996488,human
+p10_vpcc_r04.ply,3.906752786,human
+p10_vpcc_r05.ply,3.627788851,human
+p11_geocnn_r01.ply,3.88200433,human
+p11_geocnn_r02.ply,4.537771165,human
+p11_geocnn_r03.ply,4.504031983,human
+p11_geocnn_r04.ply,4.572834115,human
+p11_gpcc-octree-predlift_r02.ply,1.070866284,human
+p11_gpcc-octree-predlift_r03.ply,2.554534638,human
+p11_gpcc-octree-predlift_r04.ply,3.827356888,human
+p11_gpcc-octree-predlift_r05.ply,4.362759031,human
+p11_gpcc-octree-predlift_r06.ply,4.622727406,human
+p11_gpcc-octree-raht_r02.ply,1.016054407,human
+p11_gpcc-octree-raht_r03.ply,2.337383266,human
+p11_gpcc-octree-raht_r04.ply,3.479571814,human
+p11_gpcc-octree-raht_r05.ply,4.12015804,human
+p11_gpcc-octree-raht_r06.ply,4.643584519,human
+p11_vpcc_r00.ply,1.345042904,human
+p11_vpcc_r01.ply,2.353175845,human
+p11_vpcc_r02.ply,3.004930275,human
+p11_vpcc_r03.ply,3.948607401,human
+p11_vpcc_r04.ply,4.511691748,human
+p11_vpcc_r05.ply,4.749850785,human
+p12_geocnn_r01.ply,4.004743764,human
+p12_geocnn_r02.ply,4.508023762,human
+p12_geocnn_r03.ply,4.683268972,human
+p12_geocnn_r04.ply,4.584501777,human
+p12_gpcc-octree-predlift_r02.ply,1.12023301,human
+p12_gpcc-octree-predlift_r03.ply,2.60103778,human
+p12_gpcc-octree-predlift_r04.ply,4.376467069,human
+p12_gpcc-octree-predlift_r05.ply,4.374841898,human
+p12_gpcc-octree-predlift_r06.ply,4.560960805,human
+p12_gpcc-octree-raht_r02.ply,1.073013545,human
+p12_gpcc-octree-raht_r03.ply,2.384475294,human
+p12_gpcc-octree-raht_r04.ply,4.166650611,human
+p12_gpcc-octree-raht_r05.ply,4.324023611,human
+p12_gpcc-octree-raht_r06.ply,4.653177178,human
+p12_vpcc_r00.ply,1.538794575,human
+p12_vpcc_r01.ply,2.529579896,human
+p12_vpcc_r02.ply,3.634924067,human
+p12_vpcc_r03.ply,4.2143288,human
+p12_vpcc_r04.ply,4.675421878,human
+p12_vpcc_r05.ply,4.577799137,human
+p13_geocnn_r01.ply,4.397285973,human
+p13_geocnn_r02.ply,4.749222043,human
+p13_geocnn_r03.ply,4.52930976,human
+p13_geocnn_r04.ply,4.760916783,human
+p13_gpcc-octree-predlift_r02.ply,1.169041892,human
+p13_gpcc-octree-predlift_r03.ply,2.793494279,human
+p13_gpcc-octree-predlift_r04.ply,4.135520299,human
+p13_gpcc-octree-predlift_r05.ply,4.385423323,human
+p13_gpcc-octree-predlift_r06.ply,4.700205396,human
+p13_gpcc-octree-raht_r02.ply,1.189886341,human
+p13_gpcc-octree-raht_r03.ply,2.047754439,human
+p13_gpcc-octree-raht_r04.ply,3.733995808,human
+p13_gpcc-octree-raht_r05.ply,4.321068329,human
+p13_gpcc-octree-raht_r06.ply,4.668912938,human
+p13_vpcc_r00.ply,2.086822812,human
+p13_vpcc_r01.ply,2.670653304,human
+p13_vpcc_r02.ply,3.609993966,human
+p13_vpcc_r03.ply,4.14788763,human
+p13_vpcc_r04.ply,4.580640163,human
+p13_vpcc_r05.ply,4.712939572,human
+p14_geocnn_r01.ply,3.99564186,human
+p14_geocnn_r02.ply,4.337330008,human
+p14_geocnn_r03.ply,4.310728641,human
+p14_geocnn_r04.ply,4.721048267,human
+p14_gpcc-octree-predlift_r02.ply,1.584797152,human
+p14_gpcc-octree-predlift_r03.ply,2.732650656,human
+p14_gpcc-octree-predlift_r04.ply,4.270138757,human
+p14_gpcc-octree-predlift_r05.ply,4.43985921,human
+p14_gpcc-octree-predlift_r06.ply,4.707596131,human
+p14_gpcc-octree-raht_r02.ply,1.069515614,human
+p14_gpcc-octree-raht_r03.ply,2.237668987,human
+p14_gpcc-octree-raht_r04.ply,4.026194984,human
+p14_gpcc-octree-raht_r05.ply,4.423296956,human
+p14_gpcc-octree-raht_r06.ply,4.628177778,human
+p14_vpcc_r00.ply,1.905396137,human
+p14_vpcc_r01.ply,2.925509267,human
+p14_vpcc_r02.ply,4.074741931,human
+p14_vpcc_r03.ply,4.496460765,human
+p14_vpcc_r04.ply,4.587799339,human
+p14_vpcc_r05.ply,4.666712553,human
+p15_geocnn_r01.ply,3.802830182,human
+p15_geocnn_r02.ply,4.234789546,human
+p15_geocnn_r03.ply,4.392337298,human
+p15_geocnn_r04.ply,4.741608558,human
+p15_gpcc-octree-predlift_r02.ply,1.156445885,human
+p15_gpcc-octree-predlift_r03.ply,2.665226549,human
+p15_gpcc-octree-predlift_r04.ply,3.754185506,human
+p15_gpcc-octree-predlift_r05.ply,4.140685274,human
+p15_gpcc-octree-predlift_r06.ply,4.366881467,human
+p15_gpcc-octree-raht_r02.ply,1.068003615,human
+p15_gpcc-octree-raht_r03.ply,1.984553407,human
+p15_gpcc-octree-raht_r04.ply,3.789858429,human
+p15_gpcc-octree-raht_r05.ply,4.25115864,human
+p15_gpcc-octree-raht_r06.ply,4.370478464,human
+p15_vpcc_r00.ply,1.698180704,human
+p15_vpcc_r01.ply,2.520133106,human
+p15_vpcc_r02.ply,3.37380684,human
+p15_vpcc_r03.ply,3.938183521,human
+p15_vpcc_r04.ply,4.509965038,human
+p15_vpcc_r05.ply,4.510948759,human
+p16_geocnn_r01.ply,3.552647301,human
+p16_geocnn_r02.ply,4.212292379,human
+p16_geocnn_r03.ply,4.521001686,human
+p16_geocnn_r04.ply,4.743963609,human
+p16_gpcc-octree-predlift_r02.ply,1.27869442,human
+p16_gpcc-octree-predlift_r03.ply,2.433873287,human
+p16_gpcc-octree-predlift_r04.ply,3.66608148,human
+p16_gpcc-octree-predlift_r05.ply,4.365441735,human
+p16_gpcc-octree-predlift_r06.ply,4.431473303,human
+p16_gpcc-octree-raht_r02.ply,1.195388085,human
+p16_gpcc-octree-raht_r03.ply,2.246403739,human
+p16_gpcc-octree-raht_r04.ply,3.544566745,human
+p16_gpcc-octree-raht_r05.ply,4.161042373,human
+p16_gpcc-octree-raht_r06.ply,4.368667629,human
+p16_vpcc_r00.ply,1.937142161,human
+p16_vpcc_r01.ply,2.681927786,human
+p16_vpcc_r02.ply,3.178123462,human
+p16_vpcc_r03.ply,3.870856813,human
+p16_vpcc_r04.ply,4.373700543,human
+p16_vpcc_r05.ply,4.625763547,human
+p17_geocnn_r01.ply,3.661395304,human
+p17_geocnn_r02.ply,3.950030388,human
+p17_geocnn_r03.ply,4.11852455,human
+p17_geocnn_r04.ply,4.737644396,human
+p17_gpcc-octree-predlift_r02.ply,1.190927175,human
+p17_gpcc-octree-predlift_r03.ply,2.460974677,human
+p17_gpcc-octree-predlift_r04.ply,3.718113426,human
+p17_gpcc-octree-predlift_r05.ply,4.264385222,human
+p17_gpcc-octree-predlift_r06.ply,4.572005771,human
+p17_gpcc-octree-raht_r02.ply,1.039336585,human
+p17_gpcc-octree-raht_r03.ply,2.014437359,human
+p17_gpcc-octree-raht_r04.ply,3.252036909,human
+p17_gpcc-octree-raht_r05.ply,4.1988695,human
+p17_gpcc-octree-raht_r06.ply,4.501220589,human
+p17_vpcc_r00.ply,1.353734422,human
+p17_vpcc_r01.ply,2.255687513,human
+p17_vpcc_r02.ply,3.066268539,human
+p17_vpcc_r03.ply,3.682521254,human
+p17_vpcc_r04.ply,4.258422947,human
+p17_vpcc_r05.ply,4.603250231,human
+p18_geocnn_r01.ply,3.836707208,human
+p18_geocnn_r02.ply,3.974905933,human
+p18_geocnn_r03.ply,4.504401097,human
+p18_geocnn_r04.ply,4.491485763,human
+p18_gpcc-octree-predlift_r02.ply,1.345530792,human
+p18_gpcc-octree-predlift_r03.ply,3.188122285,human
+p18_gpcc-octree-predlift_r04.ply,4.361911799,human
+p18_gpcc-octree-predlift_r05.ply,4.432571439,human
+p18_gpcc-octree-predlift_r06.ply,4.722847711,human
+p18_gpcc-octree-raht_r02.ply,1.125865377,human
+p18_gpcc-octree-raht_r03.ply,2.771285447,human
+p18_gpcc-octree-raht_r04.ply,3.92759366,human
+p18_gpcc-octree-raht_r05.ply,4.488007211,human
+p18_gpcc-octree-raht_r06.ply,4.437161822,human
+p18_vpcc_r00.ply,2.450139389,human
+p18_vpcc_r01.ply,3.395642867,human
+p18_vpcc_r02.ply,3.8587383,human
+p18_vpcc_r03.ply,4.672485879,human
+p18_vpcc_r04.ply,4.726639719,human
+p18_vpcc_r05.ply,4.660942587,human
+p19_geocnn_r01.ply,4.500172289,animal
+p19_geocnn_r02.ply,4.768703155,animal
+p19_geocnn_r03.ply,4.765387763,animal
+p19_geocnn_r04.ply,4.756210344,animal
+p19_gpcc-octree-predlift_r02.ply,1.55720854,animal
+p19_gpcc-octree-predlift_r03.ply,3.259934112,animal
+p19_gpcc-octree-predlift_r04.ply,4.702748772,animal
+p19_gpcc-octree-predlift_r05.ply,4.7671284,animal
+p19_gpcc-octree-predlift_r06.ply,4.774380397,animal
+p19_gpcc-octree-raht_r02.ply,1.450345998,animal
+p19_gpcc-octree-raht_r03.ply,2.843957503,animal
+p19_gpcc-octree-raht_r04.ply,4.407436192,animal
+p19_gpcc-octree-raht_r05.ply,4.685190766,animal
+p19_gpcc-octree-raht_r06.ply,4.834236123,animal
+p19_vpcc_r00.ply,1.766439047,animal
+p19_vpcc_r01.ply,2.461122742,animal
+p19_vpcc_r02.ply,3.877446044,animal
+p19_vpcc_r03.ply,4.530490415,animal
+p19_vpcc_r04.ply,4.821499311,animal
+p19_vpcc_r05.ply,4.746732117,animal
+p20_geocnn_r01.ply,3.788032841,animal
+p20_geocnn_r02.ply,4.284703593,animal
+p20_geocnn_r03.ply,4.434833028,animal
+p20_geocnn_r04.ply,4.525419998,animal
+p20_gpcc-octree-predlift_r02.ply,1.643533265,animal
+p20_gpcc-octree-predlift_r03.ply,2.523025726,animal
+p20_gpcc-octree-predlift_r04.ply,3.928207194,animal
+p20_gpcc-octree-predlift_r05.ply,4.517857821,animal
+p20_gpcc-octree-predlift_r06.ply,4.607569602,animal
+p20_gpcc-octree-raht_r02.ply,1.401573282,animal
+p20_gpcc-octree-raht_r03.ply,2.570518911,animal
+p20_gpcc-octree-raht_r04.ply,3.792747786,animal
+p20_gpcc-octree-raht_r05.ply,4.388009535,animal
+p20_gpcc-octree-raht_r06.ply,4.643334905,animal
+p20_vpcc_r00.ply,2.09774313,animal
+p20_vpcc_r01.ply,2.335826909,animal
+p20_vpcc_r02.ply,3.027331744,animal
+p20_vpcc_r03.ply,3.610711079,animal
+p20_vpcc_r04.ply,4.108881408,animal
+p20_vpcc_r05.ply,4.635942175,animal
+p21_geocnn_r01.ply,3.946688025,animal
+p21_geocnn_r02.ply,4.373589429,animal
+p21_geocnn_r03.ply,4.449977026,animal
+p21_geocnn_r04.ply,4.80727069,animal
+p21_gpcc-octree-predlift_r02.ply,1.759401582,animal
+p21_gpcc-octree-predlift_r03.ply,2.840334544,animal
+p21_gpcc-octree-predlift_r04.ply,4.298433275,animal
+p21_gpcc-octree-predlift_r05.ply,4.605269689,animal
+p21_gpcc-octree-predlift_r06.ply,4.743918961,animal
+p21_gpcc-octree-raht_r02.ply,1.663663183,animal
+p21_gpcc-octree-raht_r03.ply,3.048362007,animal
+p21_gpcc-octree-raht_r04.ply,3.963536046,animal
+p21_gpcc-octree-raht_r05.ply,4.554139962,animal
+p21_gpcc-octree-raht_r06.ply,4.7338777,animal
+p21_vpcc_r00.ply,2.354445134,animal
+p21_vpcc_r01.ply,2.949839027,animal
+p21_vpcc_r02.ply,3.554261046,animal
+p21_vpcc_r03.ply,4.223110386,animal
+p21_vpcc_r04.ply,4.726796145,animal
+p21_vpcc_r05.ply,4.790481699,animal
+p22_geocnn_r01.ply,3.824083366,animal
+p22_geocnn_r02.ply,4.600005133,animal
+p22_geocnn_r03.ply,4.721252716,animal
+p22_geocnn_r04.ply,4.795471072,animal
+p22_gpcc-octree-predlift_r02.ply,1.453748967,animal
+p22_gpcc-octree-predlift_r03.ply,3.091482139,animal
+p22_gpcc-octree-predlift_r04.ply,4.414727483,animal
+p22_gpcc-octree-predlift_r05.ply,4.586039251,animal
+p22_gpcc-octree-predlift_r06.ply,4.718973124,animal
+p22_gpcc-octree-raht_r02.ply,1.303641336,animal
+p22_gpcc-octree-raht_r03.ply,2.615146539,animal
+p22_gpcc-octree-raht_r04.ply,4.413740312,animal
+p22_gpcc-octree-raht_r05.ply,4.690551093,animal
+p22_gpcc-octree-raht_r06.ply,4.639478251,animal
+p22_vpcc_r00.ply,1.994442264,animal
+p22_vpcc_r01.ply,2.74768197,animal
+p22_vpcc_r02.ply,3.740342992,animal
+p22_vpcc_r03.ply,4.592665732,animal
+p22_vpcc_r04.ply,4.676959562,animal
+p22_vpcc_r05.ply,4.758027444,animal
+p23_geocnn_r01.ply,4.256738653,animal
+p23_geocnn_r02.ply,4.652610484,animal
+p23_geocnn_r03.ply,4.430030656,animal
+p23_geocnn_r04.ply,4.832279222,animal
+p23_gpcc-octree-predlift_r02.ply,2.153345486,animal
+p23_gpcc-octree-predlift_r03.ply,3.394906012,animal
+p23_gpcc-octree-predlift_r04.ply,4.651033134,animal
+p23_gpcc-octree-predlift_r05.ply,4.670677228,animal
+p23_gpcc-octree-predlift_r06.ply,4.654118473,animal
+p23_gpcc-octree-raht_r02.ply,1.683271436,animal
+p23_gpcc-octree-raht_r03.ply,3.151949631,animal
+p23_gpcc-octree-raht_r04.ply,4.52411065,animal
+p23_gpcc-octree-raht_r05.ply,4.682844312,animal
+p23_gpcc-octree-raht_r06.ply,4.744206937,animal
+p23_vpcc_r00.ply,2.404582314,animal
+p23_vpcc_r01.ply,3.322950027,animal
+p23_vpcc_r02.ply,3.948556469,animal
+p23_vpcc_r03.ply,4.368789444,animal
+p23_vpcc_r04.ply,4.758783685,animal
+p23_vpcc_r05.ply,4.526182335,animal
+p24_geocnn_r01.ply,4.223448741,animal
+p24_geocnn_r02.ply,4.591167959,animal
+p24_geocnn_r03.ply,4.599592104,animal
+p24_geocnn_r04.ply,4.633445826,animal
+p24_gpcc-octree-predlift_r02.ply,1.489248169,animal
+p24_gpcc-octree-predlift_r03.ply,2.931534579,animal
+p24_gpcc-octree-predlift_r04.ply,4.208053246,animal
+p24_gpcc-octree-predlift_r05.ply,4.560614544,animal
+p24_gpcc-octree-predlift_r06.ply,4.580295712,animal
+p24_gpcc-octree-raht_r02.ply,1.235113047,animal
+p24_gpcc-octree-raht_r03.ply,2.441391366,animal
+p24_gpcc-octree-raht_r04.ply,3.764998845,animal
+p24_gpcc-octree-raht_r05.ply,4.449062109,animal
+p24_gpcc-octree-raht_r06.ply,4.689903043,animal
+p24_vpcc_r00.ply,1.693126121,animal
+p24_vpcc_r01.ply,2.427174033,animal
+p24_vpcc_r02.ply,3.105811518,animal
+p24_vpcc_r03.ply,4.188638901,animal
+p24_vpcc_r04.ply,4.419825103,animal
+p24_vpcc_r05.ply,4.613597863,animal
+p25_geocnn_r01.ply,4.379562061,animal
+p25_geocnn_r02.ply,4.612874205,animal
+p25_geocnn_r03.ply,4.749114321,animal
+p25_geocnn_r04.ply,4.626742528,animal
+p25_gpcc-octree-predlift_r02.ply,1.542373067,animal
+p25_gpcc-octree-predlift_r03.ply,3.033568779,animal
+p25_gpcc-octree-predlift_r04.ply,4.299779275,animal
+p25_gpcc-octree-predlift_r05.ply,4.543072931,animal
+p25_gpcc-octree-predlift_r06.ply,4.707708665,animal
+p25_gpcc-octree-raht_r02.ply,1.51897925,animal
+p25_gpcc-octree-raht_r03.ply,2.71990684,animal
+p25_gpcc-octree-raht_r04.ply,3.983468697,animal
+p25_gpcc-octree-raht_r05.ply,4.516184422,animal
+p25_gpcc-octree-raht_r06.ply,4.816475129,animal
+p25_vpcc_r00.ply,2.026276582,animal
+p25_vpcc_r01.ply,2.622167367,animal
+p25_vpcc_r02.ply,3.375209031,animal
+p25_vpcc_r03.ply,4.339457603,animal
+p25_vpcc_r04.ply,4.639259939,animal
+p25_vpcc_r05.ply,4.674341228,animal
+p26_geocnn_r01.ply,3.523156399,inanimate object
+p26_geocnn_r02.ply,3.794443623,inanimate object
+p26_geocnn_r03.ply,4.030388401,inanimate object
+p26_geocnn_r04.ply,4.277576267,inanimate object
+p26_gpcc-octree-predlift_r02.ply,1.203682991,inanimate object
+p26_gpcc-octree-predlift_r03.ply,2.63521511,inanimate object
+p26_gpcc-octree-predlift_r04.ply,4.122144992,inanimate object
+p26_gpcc-octree-predlift_r05.ply,4.461635088,inanimate object
+p26_gpcc-octree-predlift_r06.ply,4.612069736,inanimate object
+p26_gpcc-octree-raht_r02.ply,1.118931872,inanimate object
+p26_gpcc-octree-raht_r03.ply,1.973384531,inanimate object
+p26_gpcc-octree-raht_r04.ply,3.921120619,inanimate object
+p26_gpcc-octree-raht_r05.ply,4.521009979,inanimate object
+p26_gpcc-octree-raht_r06.ply,4.569581879,inanimate object
+p26_vpcc_r00.ply,1.751934589,inanimate object
+p26_vpcc_r01.ply,2.882829187,inanimate object
+p26_vpcc_r02.ply,3.55482374,inanimate object
+p26_vpcc_r03.ply,4.179329773,inanimate object
+p26_vpcc_r04.ply,4.696900782,inanimate object
+p26_vpcc_r05.ply,4.664832252,inanimate object
+p27_geocnn_r01.ply,3.51896975,inanimate object
+p27_geocnn_r02.ply,4.426499827,inanimate object
+p27_geocnn_r03.ply,4.44939006,inanimate object
+p27_geocnn_r04.ply,4.720566973,inanimate object
+p27_gpcc-octree-predlift_r02.ply,1.34406289,inanimate object
+p27_gpcc-octree-predlift_r03.ply,3.100691438,inanimate object
+p27_gpcc-octree-predlift_r04.ply,4.386814418,inanimate object
+p27_gpcc-octree-predlift_r05.ply,4.478545686,inanimate object
+p27_gpcc-octree-predlift_r06.ply,4.556572199,inanimate object
+p27_gpcc-octree-raht_r02.ply,1.207104028,inanimate object
+p27_gpcc-octree-raht_r03.ply,2.847057316,inanimate object
+p27_gpcc-octree-raht_r04.ply,3.879792144,inanimate object
+p27_gpcc-octree-raht_r05.ply,4.660069674,inanimate object
+p27_gpcc-octree-raht_r06.ply,4.621706196,inanimate object
+p27_vpcc_r00.ply,2.733374048,inanimate object
+p27_vpcc_r01.ply,3.3677365,inanimate object
+p27_vpcc_r02.ply,3.920227191,inanimate object
+p27_vpcc_r03.ply,4.368681952,inanimate object
+p27_vpcc_r04.ply,4.564288034,inanimate object
+p27_vpcc_r05.ply,4.608212709,inanimate object
+p28_geocnn_r01.ply,4.009246405,inanimate object
+p28_geocnn_r02.ply,4.411908838,inanimate object
+p28_geocnn_r03.ply,4.560125952,inanimate object
+p28_geocnn_r04.ply,4.709449264,inanimate object
+p28_gpcc-octree-predlift_r02.ply,1.32931314,inanimate object
+p28_gpcc-octree-predlift_r03.ply,3.202188441,inanimate object
+p28_gpcc-octree-predlift_r04.ply,4.41529549,inanimate object
+p28_gpcc-octree-predlift_r05.ply,4.713794751,inanimate object
+p28_gpcc-octree-predlift_r06.ply,4.805735032,inanimate object
+p28_gpcc-octree-raht_r02.ply,1.141030856,inanimate object
+p28_gpcc-octree-raht_r03.ply,2.92407346,inanimate object
+p28_gpcc-octree-raht_r04.ply,4.370677083,inanimate object
+p28_gpcc-octree-raht_r05.ply,4.575142614,inanimate object
+p28_gpcc-octree-raht_r06.ply,4.772323581,inanimate object
+p28_vpcc_r00.ply,2.743201932,inanimate object
+p28_vpcc_r01.ply,3.336559156,inanimate object
+p28_vpcc_r02.ply,3.918099777,inanimate object
+p28_vpcc_r03.ply,4.7292052,inanimate object
+p28_vpcc_r04.ply,4.770591514,inanimate object
+p28_vpcc_r05.ply,4.84061814,inanimate object
+p29_geocnn_r01.ply,2.372615114,inanimate object
+p29_geocnn_r02.ply,3.048274387,inanimate object
+p29_geocnn_r03.ply,3.363508295,inanimate object
+p29_geocnn_r04.ply,3.642376507,inanimate object
+p29_gpcc-octree-predlift_r02.ply,1.736680349,inanimate object
+p29_gpcc-octree-predlift_r03.ply,3.050545964,inanimate object
+p29_gpcc-octree-predlift_r04.ply,4.419983183,inanimate object
+p29_gpcc-octree-predlift_r05.ply,4.474141122,inanimate object
+p29_gpcc-octree-predlift_r06.ply,4.450378451,inanimate object
+p29_gpcc-octree-raht_r02.ply,1.595355938,inanimate object
+p29_gpcc-octree-raht_r03.ply,3.143863256,inanimate object
+p29_gpcc-octree-raht_r04.ply,4.329900705,inanimate object
+p29_gpcc-octree-raht_r05.ply,4.305996894,inanimate object
+p29_gpcc-octree-raht_r06.ply,4.382524451,inanimate object
+p29_vpcc_r00.ply,2.996366974,inanimate object
+p29_vpcc_r01.ply,3.438150328,inanimate object
+p29_vpcc_r02.ply,3.799653527,inanimate object
+p29_vpcc_r03.ply,4.092877318,inanimate object
+p29_vpcc_r04.ply,4.055519885,inanimate object
+p29_vpcc_r05.ply,4.219420232,inanimate object
+p30_geocnn_r01.ply,2.685787814,inanimate object
+p30_geocnn_r02.ply,3.562262582,inanimate object
+p30_geocnn_r03.ply,3.807057478,inanimate object
+p30_geocnn_r04.ply,4.256627756,inanimate object
+p30_gpcc-octree-predlift_r02.ply,1.734343225,inanimate object
+p30_gpcc-octree-predlift_r03.ply,3.0281403,inanimate object
+p30_gpcc-octree-predlift_r04.ply,4.081999708,inanimate object
+p30_gpcc-octree-predlift_r05.ply,4.144419567,inanimate object
+p30_gpcc-octree-predlift_r06.ply,4.380123367,inanimate object
+p30_gpcc-octree-raht_r02.ply,1.603646195,inanimate object
+p30_gpcc-octree-raht_r03.ply,3.174149759,inanimate object
+p30_gpcc-octree-raht_r04.ply,4.182465897,inanimate object
+p30_gpcc-octree-raht_r05.ply,4.059574146,inanimate object
+p30_gpcc-octree-raht_r06.ply,4.39537575,inanimate object
+p30_vpcc_r00.ply,3.001019341,inanimate object
+p30_vpcc_r01.ply,3.599030734,inanimate object
+p30_vpcc_r02.ply,3.978065595,inanimate object
+p30_vpcc_r03.ply,3.987012897,inanimate object
+p30_vpcc_r04.ply,3.926812714,inanimate object
+p30_vpcc_r05.ply,3.976917507,inanimate object
+p31_geocnn_r01.ply,4.580823414,inanimate object
+p31_geocnn_r02.ply,4.685153097,inanimate object
+p31_geocnn_r03.ply,4.887099391,inanimate object
+p31_geocnn_r04.ply,4.866037309,inanimate object
+p31_gpcc-octree-predlift_r02.ply,1.431179948,inanimate object
+p31_gpcc-octree-predlift_r03.ply,3.381382897,inanimate object
+p31_gpcc-octree-predlift_r04.ply,4.360271926,inanimate object
+p31_gpcc-octree-predlift_r05.ply,4.636083297,inanimate object
+p31_gpcc-octree-predlift_r06.ply,4.727654318,inanimate object
+p31_gpcc-octree-raht_r02.ply,1.291918468,inanimate object
+p31_gpcc-octree-raht_r03.ply,2.606866781,inanimate object
+p31_gpcc-octree-raht_r04.ply,4.276294567,inanimate object
+p31_gpcc-octree-raht_r05.ply,4.676756402,inanimate object
+p31_gpcc-octree-raht_r06.ply,4.742144387,inanimate object
+p31_vpcc_r00.ply,1.715671955,inanimate object
+p31_vpcc_r01.ply,2.798046805,inanimate object
+p31_vpcc_r02.ply,3.849330445,inanimate object
+p31_vpcc_r03.ply,4.504239662,inanimate object
+p31_vpcc_r04.ply,4.65811444,inanimate object
+p31_vpcc_r05.ply,4.900231542,inanimate object
+p32_gpcc-octree-predlift_r02.ply,1.252476707,inanimate object
+p32_gpcc-octree-predlift_r03.ply,2.9527723,inanimate object
+p32_gpcc-octree-predlift_r04.ply,4.115035637,inanimate object
+p32_gpcc-octree-predlift_r05.ply,4.141658595,inanimate object
+p32_gpcc-octree-predlift_r06.ply,4.309617157,inanimate object
+p32_gpcc-octree-raht_r02.ply,1.200099824,inanimate object
+p32_gpcc-octree-raht_r03.ply,2.568091523,inanimate object
+p32_gpcc-octree-raht_r04.ply,3.697438325,inanimate object
+p32_gpcc-octree-raht_r05.ply,4.089618627,inanimate object
+p32_gpcc-octree-raht_r06.ply,4.504880352,inanimate object
+p32_vpcc_r00.ply,3.017217733,inanimate object
+p32_vpcc_r01.ply,3.959292548,inanimate object
+p32_vpcc_r02.ply,4.116090543,inanimate object
+p32_vpcc_r03.ply,4.050622887,inanimate object
+p32_vpcc_r04.ply,4.156119629,inanimate object
+p32_vpcc_r05.ply,4.369828061,inanimate object
+p33_geocnn_r01.ply,2.223678361,inanimate object
+p33_geocnn_r02.ply,2.946690185,inanimate object
+p33_geocnn_r03.ply,3.644832287,inanimate object
+p33_geocnn_r04.ply,4.42364513,inanimate object
+p33_gpcc-octree-predlift_r02.ply,1.415597296,inanimate object
+p33_gpcc-octree-predlift_r03.ply,2.737912831,inanimate object
+p33_gpcc-octree-predlift_r04.ply,3.915885839,inanimate object
+p33_gpcc-octree-predlift_r05.ply,4.297296109,inanimate object
+p33_gpcc-octree-predlift_r06.ply,4.340243835,inanimate object
+p33_gpcc-octree-raht_r02.ply,1.551726022,inanimate object
+p33_gpcc-octree-raht_r03.ply,2.516853103,inanimate object
+p33_gpcc-octree-raht_r04.ply,3.617635422,inanimate object
+p33_gpcc-octree-raht_r05.ply,3.953140546,inanimate object
+p33_gpcc-octree-raht_r06.ply,4.308352381,inanimate object
+p33_vpcc_r00.ply,1.78443828,inanimate object
+p33_vpcc_r01.ply,1.908650543,inanimate object
+p33_vpcc_r02.ply,2.472965682,inanimate object
+p33_vpcc_r03.ply,2.525017957,inanimate object
+p33_vpcc_r04.ply,2.636931588,inanimate object
+p33_vpcc_r05.ply,3.26293341,inanimate object
+p34_geocnn_r01.ply,3.875939976,inanimate object
+p34_geocnn_r02.ply,4.546737909,inanimate object
+p34_geocnn_r03.ply,4.426345732,inanimate object
+p34_geocnn_r04.ply,4.545792664,inanimate object
+p34_gpcc-octree-predlift_r02.ply,2.084761993,inanimate object
+p34_gpcc-octree-predlift_r03.ply,3.543804451,inanimate object
+p34_gpcc-octree-predlift_r04.ply,4.345670148,inanimate object
+p34_gpcc-octree-predlift_r05.ply,4.729392362,inanimate object
+p34_gpcc-octree-predlift_r06.ply,4.731923055,inanimate object
+p34_gpcc-octree-raht_r02.ply,1.669786828,inanimate object
+p34_gpcc-octree-raht_r03.ply,3.419269773,inanimate object
+p34_gpcc-octree-raht_r04.ply,4.314845852,inanimate object
+p34_gpcc-octree-raht_r05.ply,4.666314301,inanimate object
+p34_gpcc-octree-raht_r06.ply,4.643765812,inanimate object
+p34_vpcc_r00.ply,3.355018216,inanimate object
+p34_vpcc_r01.ply,3.745228879,inanimate object
+p34_vpcc_r02.ply,3.899397852,inanimate object
+p34_vpcc_r03.ply,4.270619321,inanimate object
+p34_vpcc_r04.ply,4.36406419,inanimate object
+p34_vpcc_r05.ply,4.524484729,inanimate object
+p35_geocnn_r01.ply,3.844392178,inanimate object
+p35_geocnn_r02.ply,4.421661609,inanimate object
+p35_geocnn_r03.ply,4.449023535,inanimate object
+p35_geocnn_r04.ply,4.736201111,inanimate object
+p35_gpcc-octree-predlift_r02.ply,1.332897373,inanimate object
+p35_gpcc-octree-predlift_r03.ply,3.006372097,inanimate object
+p35_gpcc-octree-predlift_r04.ply,4.225658591,inanimate object
+p35_gpcc-octree-predlift_r05.ply,4.563370505,inanimate object
+p35_gpcc-octree-predlift_r06.ply,4.73569461,inanimate object
+p35_gpcc-octree-raht_r02.ply,1.369530651,inanimate object
+p35_gpcc-octree-raht_r03.ply,2.231092089,inanimate object
+p35_gpcc-octree-raht_r04.ply,4.17218507,inanimate object
+p35_gpcc-octree-raht_r05.ply,4.729700233,inanimate object
+p35_gpcc-octree-raht_r06.ply,4.777908352,inanimate object
+p35_vpcc_r00.ply,1.888467299,inanimate object
+p35_vpcc_r01.ply,2.780948036,inanimate object
+p35_vpcc_r02.ply,3.525430254,inanimate object
+p35_vpcc_r03.ply,3.747455491,inanimate object
+p35_vpcc_r04.ply,4.171733866,inanimate object
+p35_vpcc_r05.ply,4.637269715,inanimate object
+p36_geocnn_r01.ply,3.449315016,inanimate object
+p36_geocnn_r02.ply,4.257003398,inanimate object
+p36_geocnn_r03.ply,4.515622385,inanimate object
+p36_geocnn_r04.ply,4.623073453,inanimate object
+p36_gpcc-octree-predlift_r02.ply,1.613518687,inanimate object
+p36_gpcc-octree-predlift_r03.ply,4.050807701,inanimate object
+p36_gpcc-octree-predlift_r04.ply,4.590846425,inanimate object
+p36_gpcc-octree-predlift_r05.ply,4.62135294,inanimate object
+p36_gpcc-octree-predlift_r06.ply,4.837494708,inanimate object
+p36_gpcc-octree-raht_r02.ply,1.476062871,inanimate object
+p36_gpcc-octree-raht_r03.ply,3.547504391,inanimate object
+p36_gpcc-octree-raht_r04.ply,4.345827906,inanimate object
+p36_gpcc-octree-raht_r05.ply,4.61467515,inanimate object
+p36_gpcc-octree-raht_r06.ply,4.52946623,inanimate object
+p36_vpcc_r00.ply,2.288100325,inanimate object
+p36_vpcc_r01.ply,2.927898365,inanimate object
+p36_vpcc_r02.ply,3.721901178,inanimate object
+p36_vpcc_r03.ply,4.053039371,inanimate object
+p36_vpcc_r04.ply,4.242229452,inanimate object
+p36_vpcc_r05.ply,4.42222001,inanimate object
+p37_geocnn_r01.ply,3.619721248,inanimate object
+p37_geocnn_r02.ply,4.184002988,inanimate object
+p37_geocnn_r03.ply,4.310077599,inanimate object
+p37_geocnn_r04.ply,4.567103763,inanimate object
+p37_gpcc-octree-predlift_r02.ply,1.237990437,inanimate object
+p37_gpcc-octree-predlift_r03.ply,2.990177358,inanimate object
+p37_gpcc-octree-predlift_r04.ply,4.258633958,inanimate object
+p37_gpcc-octree-predlift_r05.ply,4.536320132,inanimate object
+p37_gpcc-octree-predlift_r06.ply,4.690042408,inanimate object
+p37_gpcc-octree-raht_r02.ply,1.124499732,inanimate object
+p37_gpcc-octree-raht_r03.ply,2.925747437,inanimate object
+p37_gpcc-octree-raht_r04.ply,4.058281421,inanimate object
+p37_gpcc-octree-raht_r05.ply,4.479569771,inanimate object
+p37_gpcc-octree-raht_r06.ply,4.627080381,inanimate object
+p37_vpcc_r00.ply,2.572504656,inanimate object
+p37_vpcc_r01.ply,3.495848829,inanimate object
+p37_vpcc_r02.ply,3.808285233,inanimate object
+p37_vpcc_r03.ply,4.478868449,inanimate object
+p37_vpcc_r04.ply,4.320382088,inanimate object
+p37_vpcc_r05.ply,4.578802836,inanimate object
+p38_geocnn_r01.ply,2.275291276,inanimate object
+p38_geocnn_r02.ply,3.20686651,inanimate object
+p38_geocnn_r03.ply,3.628153941,inanimate object
+p38_geocnn_r04.ply,3.798689146,inanimate object
+p38_gpcc-octree-predlift_r02.ply,1.473274998,inanimate object
+p38_gpcc-octree-predlift_r03.ply,2.704729065,inanimate object
+p38_gpcc-octree-predlift_r04.ply,4.044642558,inanimate object
+p38_gpcc-octree-predlift_r05.ply,4.611395547,inanimate object
+p38_gpcc-octree-predlift_r06.ply,4.678347125,inanimate object
+p38_gpcc-octree-raht_r02.ply,1.223246676,inanimate object
+p38_gpcc-octree-raht_r03.ply,2.764748867,inanimate object
+p38_gpcc-octree-raht_r04.ply,4.034340118,inanimate object
+p38_gpcc-octree-raht_r05.ply,4.532628868,inanimate object
+p38_gpcc-octree-raht_r06.ply,4.672838298,inanimate object
+p38_vpcc_r00.ply,2.564196814,inanimate object
+p38_vpcc_r01.ply,2.990821993,inanimate object
+p38_vpcc_r02.ply,3.68801259,inanimate object
+p38_vpcc_r03.ply,3.994788636,inanimate object
+p38_vpcc_r04.ply,4.201912511,inanimate object
+p38_vpcc_r05.ply,4.240084548,inanimate object
+p39_geocnn_r01.ply,2.625271917,inanimate object
+p39_geocnn_r02.ply,3.310565068,inanimate object
+p39_geocnn_r03.ply,4.01468599,inanimate object
+p39_geocnn_r04.ply,3.914193906,inanimate object
+p39_gpcc-octree-predlift_r02.ply,1.46147738,inanimate object
+p39_gpcc-octree-predlift_r03.ply,2.74349639,inanimate object
+p39_gpcc-octree-predlift_r04.ply,4.308007778,inanimate object
+p39_gpcc-octree-predlift_r05.ply,4.41773719,inanimate object
+p39_gpcc-octree-predlift_r06.ply,4.572522585,inanimate object
+p39_gpcc-octree-raht_r02.ply,1.470226983,inanimate object
+p39_gpcc-octree-raht_r03.ply,2.849945746,inanimate object
+p39_gpcc-octree-raht_r04.ply,4.042905035,inanimate object
+p39_gpcc-octree-raht_r05.ply,3.398585764,inanimate object
+p39_gpcc-octree-raht_r06.ply,4.452174109,inanimate object
+p39_vpcc_r00.ply,1.872400812,inanimate object
+p39_vpcc_r01.ply,2.688281806,inanimate object
+p39_vpcc_r02.ply,2.979761367,inanimate object
+p39_vpcc_r03.ply,3.395950256,inanimate object
+p39_vpcc_r04.ply,3.61437336,inanimate object
+p39_vpcc_r05.ply,4.00165339,inanimate object
+p40_geocnn_r01.ply,4.223862803,inanimate object
+p40_geocnn_r02.ply,4.537520119,inanimate object
+p40_geocnn_r03.ply,4.623413014,inanimate object
+p40_geocnn_r04.ply,4.601508136,inanimate object
+p40_gpcc-octree-predlift_r02.ply,1.533316784,inanimate object
+p40_gpcc-octree-predlift_r03.ply,3.076065063,inanimate object
+p40_gpcc-octree-predlift_r04.ply,4.553822348,inanimate object
+p40_gpcc-octree-predlift_r05.ply,4.715850029,inanimate object
+p40_gpcc-octree-predlift_r06.ply,4.49407148,inanimate object
+p40_gpcc-octree-raht_r02.ply,1.234623604,inanimate object
+p40_gpcc-octree-raht_r03.ply,2.788596822,inanimate object
+p40_gpcc-octree-raht_r04.ply,4.424253243,inanimate object
+p40_gpcc-octree-raht_r05.ply,4.638737358,inanimate object
+p40_gpcc-octree-raht_r06.ply,4.706810586,inanimate object
+p40_vpcc_r00.ply,1.624651452,inanimate object
+p40_vpcc_r01.ply,2.649080199,inanimate object
+p40_vpcc_r02.ply,4.240712826,inanimate object
+p40_vpcc_r03.ply,4.485628688,inanimate object
+p40_vpcc_r04.ply,4.532190613,inanimate object
+p40_vpcc_r05.ply,4.651723578,inanimate object
+p41_geocnn_r01.ply,4.227608907,inanimate object
+p41_geocnn_r02.ply,4.429957,inanimate object
+p41_geocnn_r03.ply,4.717672203,inanimate object
+p41_geocnn_r04.ply,4.671408552,inanimate object
+p41_gpcc-octree-predlift_r02.ply,1.429416914,inanimate object
+p41_gpcc-octree-predlift_r03.ply,3.127067186,inanimate object
+p41_gpcc-octree-predlift_r04.ply,4.382717869,inanimate object
+p41_gpcc-octree-predlift_r05.ply,4.357342511,inanimate object
+p41_gpcc-octree-predlift_r06.ply,4.847472591,inanimate object
+p41_gpcc-octree-raht_r02.ply,1.344665616,inanimate object
+p41_gpcc-octree-raht_r03.ply,2.827048658,inanimate object
+p41_gpcc-octree-raht_r04.ply,4.381647766,inanimate object
+p41_gpcc-octree-raht_r05.ply,4.610395857,inanimate object
+p41_gpcc-octree-raht_r06.ply,4.762194118,inanimate object
+p41_vpcc_r00.ply,2.157191279,inanimate object
+p41_vpcc_r01.ply,3.092292911,inanimate object
+p41_vpcc_r02.ply,3.974770472,inanimate object
+p41_vpcc_r03.ply,4.3713858,inanimate object
+p41_vpcc_r04.ply,4.522034384,inanimate object
+p41_vpcc_r05.ply,4.487006824,inanimate object
+p42_geocnn_r01.ply,4.054969573,inanimate object
+p42_geocnn_r02.ply,4.304212147,inanimate object
+p42_geocnn_r03.ply,4.406910179,inanimate object
+p42_geocnn_r04.ply,4.702340889,inanimate object
+p42_gpcc-octree-predlift_r02.ply,1.521997676,inanimate object
+p42_gpcc-octree-predlift_r03.ply,3.105351761,inanimate object
+p42_gpcc-octree-predlift_r04.ply,4.466145725,inanimate object
+p42_gpcc-octree-predlift_r05.ply,4.755120091,inanimate object
+p42_gpcc-octree-predlift_r06.ply,1.952274859,inanimate object
+p42_gpcc-octree-raht_r02.ply,1.183062625,inanimate object
+p42_gpcc-octree-raht_r03.ply,3.086281675,inanimate object
+p42_gpcc-octree-raht_r04.ply,4.540202629,inanimate object
+p42_gpcc-octree-raht_r05.ply,4.715566195,inanimate object
+p42_gpcc-octree-raht_r06.ply,4.650392617,inanimate object
+p42_vpcc_r00.ply,3.094985701,inanimate object
+p42_vpcc_r01.ply,4.278957238,inanimate object
+p42_vpcc_r02.ply,4.593505476,inanimate object
+p42_vpcc_r03.ply,4.755065972,inanimate object
+p42_vpcc_r04.ply,4.733001157,inanimate object
+p42_vpcc_r05.ply,4.703868848,inanimate object
+p43_geocnn_r01.ply,4.395502561,inanimate object
+p43_geocnn_r02.ply,4.608845194,inanimate object
+p43_geocnn_r03.ply,4.720652023,inanimate object
+p43_geocnn_r04.ply,4.844721623,inanimate object
+p43_gpcc-octree-predlift_r02.ply,2.066785104,inanimate object
+p43_gpcc-octree-predlift_r03.ply,3.428830541,inanimate object
+p43_gpcc-octree-predlift_r04.ply,4.139044497,inanimate object
+p43_gpcc-octree-predlift_r05.ply,4.63183351,inanimate object
+p43_gpcc-octree-predlift_r06.ply,4.665969849,inanimate object
+p43_gpcc-octree-raht_r02.ply,1.422636861,inanimate object
+p43_gpcc-octree-raht_r03.ply,3.554345861,inanimate object
+p43_gpcc-octree-raht_r04.ply,4.240996406,inanimate object
+p43_gpcc-octree-raht_r05.ply,4.616406924,inanimate object
+p43_gpcc-octree-raht_r06.ply,4.737603311,inanimate object
+p43_vpcc_r00.ply,2.665959594,inanimate object
+p43_vpcc_r01.ply,3.605505377,inanimate object
+p43_vpcc_r02.ply,3.954657784,inanimate object
+p43_vpcc_r03.ply,4.392864588,inanimate object
+p43_vpcc_r04.ply,4.66029619,inanimate object
+p43_vpcc_r05.ply,4.692099382,inanimate object
+p44_geocnn_r01.ply,3.849385111,inanimate object
+p44_geocnn_r02.ply,4.284409422,inanimate object
+p44_geocnn_r03.ply,4.301743631,inanimate object
+p44_geocnn_r04.ply,4.569426984,inanimate object
+p44_gpcc-octree-predlift_r02.ply,1.72432873,inanimate object
+p44_gpcc-octree-predlift_r03.ply,3.23698193,inanimate object
+p44_gpcc-octree-predlift_r04.ply,4.238318177,inanimate object
+p44_gpcc-octree-predlift_r05.ply,4.665948711,inanimate object
+p44_gpcc-octree-predlift_r06.ply,4.718057433,inanimate object
+p44_gpcc-octree-raht_r02.ply,1.218802258,inanimate object
+p44_gpcc-octree-raht_r03.ply,2.853020733,inanimate object
+p44_gpcc-octree-raht_r04.ply,4.213919688,inanimate object
+p44_gpcc-octree-raht_r05.ply,4.391524053,inanimate object
+p44_gpcc-octree-raht_r06.ply,4.518935138,inanimate object
+p44_vpcc_r00.ply,2.280101944,inanimate object
+p44_vpcc_r01.ply,3.108786177,inanimate object
+p44_vpcc_r02.ply,3.691125319,inanimate object
+p44_vpcc_r03.ply,4.361572424,inanimate object
+p44_vpcc_r04.ply,4.524556757,inanimate object
+p44_vpcc_r05.ply,4.553007035,inanimate object
+p45_geocnn_r01.ply,3.442395599,inanimate object
+p45_geocnn_r02.ply,4.119473231,inanimate object
+p45_geocnn_r03.ply,4.180803272,inanimate object
+p45_geocnn_r04.ply,4.462728013,inanimate object
+p45_gpcc-octree-predlift_r02.ply,1.392205455,inanimate object
+p45_gpcc-octree-predlift_r03.ply,2.777243633,inanimate object
+p45_gpcc-octree-predlift_r04.ply,4.132679907,inanimate object
+p45_gpcc-octree-predlift_r05.ply,4.561745608,inanimate object
+p45_gpcc-octree-predlift_r06.ply,3.935308502,inanimate object
+p45_gpcc-octree-raht_r02.ply,1.277497469,inanimate object
+p45_gpcc-octree-raht_r03.ply,2.59354933,inanimate object
+p45_gpcc-octree-raht_r04.ply,4.323742816,inanimate object
+p45_gpcc-octree-raht_r05.ply,4.672244768,inanimate object
+p45_gpcc-octree-raht_r06.ply,4.648627146,inanimate object
+p45_vpcc_r00.ply,2.398653431,inanimate object
+p45_vpcc_r01.ply,3.617074697,inanimate object
+p45_vpcc_r02.ply,4.426349832,inanimate object
+p45_vpcc_r03.ply,4.53422151,inanimate object
+p45_vpcc_r04.ply,4.473518142,inanimate object
+p45_vpcc_r05.ply,4.610528117,inanimate object
+p46_geocnn_r01.ply,4.150497609,inanimate object
+p46_geocnn_r02.ply,4.400538689,inanimate object
+p46_geocnn_r03.ply,4.580936853,inanimate object
+p46_geocnn_r04.ply,4.57694548,inanimate object
+p46_gpcc-octree-predlift_r02.ply,2.394528032,inanimate object
+p46_gpcc-octree-predlift_r03.ply,3.550497152,inanimate object
+p46_gpcc-octree-predlift_r04.ply,4.286740641,inanimate object
+p46_gpcc-octree-predlift_r05.ply,4.411104854,inanimate object
+p46_gpcc-octree-predlift_r06.ply,4.625783516,inanimate object
+p46_gpcc-octree-raht_r02.ply,2.063184602,inanimate object
+p46_gpcc-octree-raht_r03.ply,3.551078829,inanimate object
+p46_gpcc-octree-raht_r04.ply,4.138235165,inanimate object
+p46_gpcc-octree-raht_r05.ply,4.493213728,inanimate object
+p46_gpcc-octree-raht_r06.ply,4.491201939,inanimate object
+p46_vpcc_r00.ply,2.901451862,inanimate object
+p46_vpcc_r01.ply,3.130644649,inanimate object
+p46_vpcc_r02.ply,3.356306595,inanimate object
+p46_vpcc_r03.ply,3.663742772,inanimate object
+p46_vpcc_r04.ply,3.879352337,inanimate object
+p46_vpcc_r05.ply,4.447809649,inanimate object
+p47_geocnn_r01.ply,4.064496994,inanimate object
+p47_geocnn_r02.ply,4.445886516,inanimate object
+p47_geocnn_r03.ply,4.330173584,inanimate object
+p47_geocnn_r04.ply,4.527654531,inanimate object
+p47_gpcc-octree-predlift_r02.ply,1.156325161,inanimate object
+p47_gpcc-octree-predlift_r03.ply,2.492136374,inanimate object
+p47_gpcc-octree-predlift_r04.ply,4.137463267,inanimate object
+p47_gpcc-octree-predlift_r05.ply,4.482835912,inanimate object
+p47_gpcc-octree-predlift_r06.ply,4.686867611,inanimate object
+p47_gpcc-octree-raht_r02.ply,1.142754778,inanimate object
+p47_gpcc-octree-raht_r03.ply,2.074469936,inanimate object
+p47_gpcc-octree-raht_r04.ply,3.582210119,inanimate object
+p47_gpcc-octree-raht_r05.ply,4.323354386,inanimate object
+p47_gpcc-octree-raht_r06.ply,4.572109901,inanimate object
+p47_vpcc_r00.ply,1.202087986,inanimate object
+p47_vpcc_r01.ply,1.904447279,inanimate object
+p47_vpcc_r02.ply,2.827401656,inanimate object
+p47_vpcc_r03.ply,3.912894187,inanimate object
+p47_vpcc_r04.ply,4.556263473,inanimate object
+p47_vpcc_r05.ply,4.568503554,inanimate object
+p48_geocnn_r01.ply,3.943541859,inanimate object
+p48_geocnn_r02.ply,4.412851782,inanimate object
+p48_geocnn_r03.ply,4.470705198,inanimate object
+p48_geocnn_r04.ply,4.623065997,inanimate object
+p48_gpcc-octree-predlift_r02.ply,1.42895618,inanimate object
+p48_gpcc-octree-predlift_r03.ply,3.507212795,inanimate object
+p48_gpcc-octree-predlift_r04.ply,4.263903979,inanimate object
+p48_gpcc-octree-predlift_r05.ply,4.516953993,inanimate object
+p48_gpcc-octree-predlift_r06.ply,4.689963301,inanimate object
+p48_gpcc-octree-raht_r02.ply,1.603588178,inanimate object
+p48_gpcc-octree-raht_r03.ply,3.188978359,inanimate object
+p48_gpcc-octree-raht_r04.ply,4.165555387,inanimate object
+p48_gpcc-octree-raht_r05.ply,4.433891519,inanimate object
+p48_gpcc-octree-raht_r06.ply,4.590998748,inanimate object
+p48_vpcc_r00.ply,1.881008635,inanimate object
+p48_vpcc_r01.ply,2.820650921,inanimate object
+p48_vpcc_r02.ply,3.287722524,inanimate object
+p48_vpcc_r03.ply,3.840788305,inanimate object
+p48_vpcc_r04.ply,4.127274476,inanimate object
+p48_vpcc_r05.ply,4.464249398,inanimate object
+p49_geocnn_r01.ply,3.40201083,inanimate object
+p49_geocnn_r02.ply,4.254599058,inanimate object
+p49_geocnn_r03.ply,3.969974332,inanimate object
+p49_geocnn_r04.ply,4.545382437,inanimate object
+p49_gpcc-octree-predlift_r02.ply,1.411122927,inanimate object
+p49_gpcc-octree-predlift_r03.ply,2.713155704,inanimate object
+p49_gpcc-octree-predlift_r04.ply,3.877167382,inanimate object
+p49_gpcc-octree-predlift_r05.ply,4.515109528,inanimate object
+p49_gpcc-octree-predlift_r06.ply,4.554019549,inanimate object
+p49_gpcc-octree-raht_r02.ply,1.417433099,inanimate object
+p49_gpcc-octree-raht_r03.ply,2.61639643,inanimate object
+p49_gpcc-octree-raht_r04.ply,3.727851134,inanimate object
+p49_gpcc-octree-raht_r05.ply,4.345333376,inanimate object
+p49_gpcc-octree-raht_r06.ply,4.454285938,inanimate object
+p49_vpcc_r00.ply,1.860085145,inanimate object
+p49_vpcc_r01.ply,2.76817709,inanimate object
+p49_vpcc_r02.ply,3.697220042,inanimate object
+p49_vpcc_r03.ply,4.148517755,inanimate object
+p49_vpcc_r04.ply,4.516519326,inanimate object
+p49_vpcc_r05.ply,4.44640384,inanimate object
+p50_geocnn_r01.ply,4.384077807,inanimate object
+p50_geocnn_r02.ply,4.576617959,inanimate object
+p50_geocnn_r03.ply,4.565939968,inanimate object
+p50_geocnn_r04.ply,4.815010021,inanimate object
+p50_gpcc-octree-predlift_r02.ply,1.750307207,inanimate object
+p50_gpcc-octree-predlift_r03.ply,3.184102749,inanimate object
+p50_gpcc-octree-predlift_r04.ply,3.96452275,inanimate object
+p50_gpcc-octree-predlift_r05.ply,4.333370951,inanimate object
+p50_gpcc-octree-predlift_r06.ply,4.628868038,inanimate object
+p50_gpcc-octree-raht_r02.ply,1.385421745,inanimate object
+p50_gpcc-octree-raht_r03.ply,2.698975063,inanimate object
+p50_gpcc-octree-raht_r04.ply,3.937855769,inanimate object
+p50_gpcc-octree-raht_r05.ply,4.324710661,inanimate object
+p50_gpcc-octree-raht_r06.ply,4.601111004,inanimate object
+p50_vpcc_r00.ply,1.860687427,inanimate object
+p50_vpcc_r01.ply,2.793520018,inanimate object
+p50_vpcc_r02.ply,3.502272784,inanimate object
+p50_vpcc_r03.ply,4.214190763,inanimate object
+p50_vpcc_r04.ply,4.529400741,inanimate object
+p50_vpcc_r05.ply,4.610093752,inanimate object
+p51_geocnn_r01.ply,3.518762741,building
+p51_geocnn_r02.ply,3.958194211,building
+p51_geocnn_r03.ply,4.194357666,building
+p51_geocnn_r04.ply,4.354353997,building
+p51_gpcc-octree-predlift_r02.ply,1.347013501,building
+p51_gpcc-octree-predlift_r03.ply,3.00181988,building
+p51_gpcc-octree-predlift_r04.ply,4.005816865,building
+p51_gpcc-octree-predlift_r05.ply,4.141848297,building
+p51_gpcc-octree-predlift_r06.ply,4.558876653,building
+p51_gpcc-octree-raht_r02.ply,1.381647614,building
+p51_gpcc-octree-raht_r03.ply,2.943140438,building
+p51_gpcc-octree-raht_r04.ply,4.034906534,building
+p51_gpcc-octree-raht_r05.ply,4.311377594,building
+p51_gpcc-octree-raht_r06.ply,4.556746936,building
+p51_vpcc_r00.ply,1.871731547,building
+p51_vpcc_r01.ply,3.033439948,building
+p51_vpcc_r02.ply,3.482530302,building
+p51_vpcc_r03.ply,4.074225525,building
+p51_vpcc_r04.ply,4.198624049,building
+p51_vpcc_r05.ply,4.48451465,building
+p52_geocnn_r01.ply,3.578689106,building
+p52_geocnn_r02.ply,4.28967954,building
+p52_geocnn_r03.ply,4.433914955,building
+p52_geocnn_r04.ply,4.451629395,building
+p52_gpcc-octree-predlift_r02.ply,1.333721059,building
+p52_gpcc-octree-predlift_r03.ply,2.980046593,building
+p52_gpcc-octree-predlift_r04.ply,4.330209502,building
+p52_gpcc-octree-predlift_r05.ply,4.690885393,building
+p52_gpcc-octree-predlift_r06.ply,4.689244013,building
+p52_gpcc-octree-raht_r02.ply,1.444360721,building
+p52_gpcc-octree-raht_r03.ply,2.684165053,building
+p52_gpcc-octree-raht_r04.ply,4.060588257,building
+p52_gpcc-octree-raht_r05.ply,4.629823953,building
+p52_gpcc-octree-raht_r06.ply,4.719335078,building
+p52_vpcc_r00.ply,2.28501467,building
+p52_vpcc_r01.ply,2.809621563,building
+p52_vpcc_r02.ply,3.622270823,building
+p52_vpcc_r03.ply,4.129479637,building
+p52_vpcc_r04.ply,4.610575072,building
+p52_vpcc_r05.ply,4.62092582,building
+p53_geocnn_r01.ply,3.939469182,building
+p53_geocnn_r02.ply,4.455344984,building
+p53_geocnn_r03.ply,4.621951482,building
+p53_geocnn_r04.ply,4.454089047,building
+p53_gpcc-octree-predlift_r02.ply,1.381790812,building
+p53_gpcc-octree-predlift_r03.ply,2.848597902,building
+p53_gpcc-octree-predlift_r04.ply,4.367854781,building
+p53_gpcc-octree-predlift_r05.ply,4.421758918,building
+p53_gpcc-octree-predlift_r06.ply,4.675593064,building
+p53_gpcc-octree-raht_r02.ply,1.149159294,building
+p53_gpcc-octree-raht_r03.ply,2.456872563,building
+p53_gpcc-octree-raht_r04.ply,4.088259577,building
+p53_gpcc-octree-raht_r05.ply,4.584283841,building
+p53_gpcc-octree-raht_r06.ply,4.611492358,building
+p53_vpcc_r00.ply,1.880677781,building
+p53_vpcc_r01.ply,2.772630243,building
+p53_vpcc_r02.ply,3.962041652,building
+p53_vpcc_r03.ply,4.437739724,building
+p53_vpcc_r04.ply,4.528875562,building
+p53_vpcc_r05.ply,4.64881738,building
+p54_geocnn_r01.ply,2.623281086,building
+p54_geocnn_r02.ply,3.526444449,building
+p54_geocnn_r03.ply,4.013297568,building
+p54_geocnn_r04.ply,4.210389089,building
+p54_gpcc-octree-predlift_r02.ply,1.231039536,building
+p54_gpcc-octree-predlift_r03.ply,2.983401665,building
+p54_gpcc-octree-predlift_r04.ply,4.315334367,building
+p54_gpcc-octree-predlift_r05.ply,4.349258448,building
+p54_gpcc-octree-predlift_r06.ply,4.557353126,building
+p54_gpcc-octree-raht_r02.ply,1.355942404,building
+p54_gpcc-octree-raht_r03.ply,3.10835136,building
+p54_gpcc-octree-raht_r04.ply,4.176754842,building
+p54_gpcc-octree-raht_r05.ply,4.410068369,building
+p54_gpcc-octree-raht_r06.ply,4.496308912,building
+p54_vpcc_r00.ply,2.684445984,building
+p54_vpcc_r01.ply,3.37622619,building
+p54_vpcc_r02.ply,4.107143556,building
+p54_vpcc_r03.ply,4.469839144,building
+p54_vpcc_r04.ply,4.484426471,building
+p54_vpcc_r05.ply,4.350569411,building
+p55_geocnn_r01.ply,3.783632047,building
+p55_geocnn_r02.ply,4.12481811,building
+p55_geocnn_r03.ply,4.666320169,building
+p55_geocnn_r04.ply,4.665389674,building
+p55_gpcc-octree-predlift_r02.ply,1.463852506,building
+p55_gpcc-octree-predlift_r03.ply,3.445073732,building
+p55_gpcc-octree-predlift_r04.ply,4.395131256,building
+p55_gpcc-octree-predlift_r05.ply,4.690651644,building
+p55_gpcc-octree-predlift_r06.ply,4.60131312,building
+p55_gpcc-octree-raht_r02.ply,1.36486422,building
+p55_gpcc-octree-raht_r03.ply,3.187863836,building
+p55_gpcc-octree-raht_r04.ply,4.291041785,building
+p55_gpcc-octree-raht_r05.ply,4.68778212,building
+p55_gpcc-octree-raht_r06.ply,4.683889489,building
+p55_vpcc_r00.ply,2.913663905,building
+p55_vpcc_r01.ply,3.650169748,building
+p55_vpcc_r02.ply,4.350406135,building
+p55_vpcc_r03.ply,4.566576792,building
+p55_vpcc_r04.ply,4.765317431,building
+p55_vpcc_r05.ply,4.590784738,building
+p56_geocnn_r01.ply,2.941216968,building
+p56_geocnn_r02.ply,4.193777326,building
+p56_geocnn_r03.ply,4.644408375,building
+p56_geocnn_r04.ply,4.504202941,building
+p56_gpcc-octree-predlift_r02.ply,1.187226624,building
+p56_gpcc-octree-predlift_r03.ply,3.092619776,building
+p56_gpcc-octree-predlift_r04.ply,4.365095594,building
+p56_gpcc-octree-predlift_r05.ply,4.592687188,building
+p56_gpcc-octree-predlift_r06.ply,4.780289183,building
+p56_gpcc-octree-raht_r02.ply,1.389753643,building
+p56_gpcc-octree-raht_r03.ply,3.226979502,building
+p56_gpcc-octree-raht_r04.ply,4.59706816,building
+p56_gpcc-octree-raht_r05.ply,4.69476242,building
+p56_gpcc-octree-raht_r06.ply,4.707986859,building
+p56_vpcc_r00.ply,1.656196981,building
+p56_vpcc_r01.ply,2.39441292,building
+p56_vpcc_r02.ply,2.889707503,building
+p56_vpcc_r03.ply,3.39756445,building
+p56_vpcc_r04.ply,3.860098574,building
+p56_vpcc_r05.ply,4.301037549,building
+p57_geocnn_r01.ply,3.009448702,building
+p57_geocnn_r02.ply,3.86235418,building
+p57_geocnn_r03.ply,4.442475932,building
+p57_geocnn_r04.ply,4.271015177,building
+p57_gpcc-octree-predlift_r02.ply,1.302066411,building
+p57_gpcc-octree-predlift_r03.ply,2.641010331,building
+p57_gpcc-octree-predlift_r04.ply,4.131134718,building
+p57_gpcc-octree-predlift_r05.ply,4.45242974,building
+p57_gpcc-octree-predlift_r06.ply,4.225220407,building
+p57_gpcc-octree-raht_r02.ply,1.300589193,building
+p57_gpcc-octree-raht_r03.ply,2.855015407,building
+p57_gpcc-octree-raht_r04.ply,4.133991247,building
+p57_gpcc-octree-raht_r05.ply,4.200136476,building
+p57_gpcc-octree-raht_r06.ply,4.342447008,building
+p57_vpcc_r00.ply,2.419139331,building
+p57_vpcc_r01.ply,3.145711955,building
+p57_vpcc_r02.ply,3.902911403,building
+p57_vpcc_r03.ply,4.138469658,building
+p57_vpcc_r04.ply,4.332537405,building
+p57_vpcc_r05.ply,4.341575609,building
+p58_geocnn_r01.ply,2.704143026,building
+p58_geocnn_r02.ply,3.362763119,building
+p58_geocnn_r03.ply,3.863402614,building
+p58_geocnn_r04.ply,3.668401365,building
+p58_gpcc-octree-predlift_r02.ply,1.291111214,building
+p58_gpcc-octree-predlift_r03.ply,2.788944036,building
+p58_gpcc-octree-predlift_r04.ply,4.100542129,building
+p58_gpcc-octree-predlift_r05.ply,4.551615868,building
+p58_gpcc-octree-predlift_r06.ply,4.543487173,building
+p58_gpcc-octree-raht_r02.ply,1.659684686,building
+p58_gpcc-octree-raht_r03.ply,2.906914152,building
+p58_gpcc-octree-raht_r04.ply,4.045772766,building
+p58_gpcc-octree-raht_r05.ply,4.340798749,building
+p58_gpcc-octree-raht_r06.ply,4.403024957,building
+p58_vpcc_r00.ply,2.663626127,building
+p58_vpcc_r01.ply,3.23201845,building
+p58_vpcc_r02.ply,3.961823573,building
+p58_vpcc_r03.ply,4.20918926,building
+p58_vpcc_r04.ply,4.212241478,building
+p58_vpcc_r05.ply,4.298564262,building
+p59_geocnn_r01.ply,3.028681024,building
+p59_geocnn_r02.ply,3.903606565,building
+p59_geocnn_r03.ply,3.722147917,building
+p59_geocnn_r04.ply,3.882077481,building
+p59_gpcc-octree-predlift_r02.ply,1.29697039,building
+p59_gpcc-octree-predlift_r03.ply,2.553241209,building
+p59_gpcc-octree-predlift_r04.ply,3.764816305,building
+p59_gpcc-octree-predlift_r05.ply,4.244827575,building
+p59_gpcc-octree-predlift_r06.ply,4.344014092,building
+p59_gpcc-octree-raht_r02.ply,1.313052822,building
+p59_gpcc-octree-raht_r03.ply,2.372908229,building
+p59_gpcc-octree-raht_r04.ply,3.551949657,building
+p59_gpcc-octree-raht_r05.ply,4.251386231,building
+p59_gpcc-octree-raht_r06.ply,4.219517736,building
+p59_vpcc_r00.ply,2.119839459,building
+p59_vpcc_r01.ply,2.711937089,building
+p59_vpcc_r02.ply,3.146313242,building
+p59_vpcc_r03.ply,3.992465395,building
+p59_vpcc_r04.ply,4.096196738,building
+p59_vpcc_r05.ply,4.197061059,building
+p60_geocnn_r01.ply,2.960392441,building
+p60_geocnn_r02.ply,3.580412687,building
+p60_geocnn_r03.ply,3.763037565,building
+p60_geocnn_r04.ply,4.019666862,building
+p60_gpcc-octree-predlift_r02.ply,1.637487987,building
+p60_gpcc-octree-predlift_r03.ply,2.891705732,building
+p60_gpcc-octree-predlift_r04.ply,4.408562962,building
+p60_gpcc-octree-predlift_r05.ply,4.377641831,building
+p60_gpcc-octree-predlift_r06.ply,4.648183406,building
+p60_gpcc-octree-raht_r02.ply,1.501848528,building
+p60_gpcc-octree-raht_r03.ply,2.773132596,building
+p60_gpcc-octree-raht_r04.ply,4.110307629,building
+p60_gpcc-octree-raht_r05.ply,4.455143473,building
+p60_gpcc-octree-raht_r06.ply,4.525313237,building
+p60_vpcc_r00.ply,2.545480272,building
+p60_vpcc_r01.ply,3.554710073,building
+p60_vpcc_r02.ply,4.242311831,building
+p60_vpcc_r03.ply,4.341024197,building
+p60_vpcc_r04.ply,4.606787596,building
+p60_vpcc_r05.ply,4.681665952,building
+p61_geocnn_r01.ply,3.659077522,building
+p61_geocnn_r02.ply,3.393526271,building
+p61_geocnn_r03.ply,3.78647044,building
+p61_geocnn_r04.ply,4.051825399,building
+p61_gpcc-octree-predlift_r02.ply,1.475273054,building
+p61_gpcc-octree-predlift_r03.ply,2.847821874,building
+p61_gpcc-octree-predlift_r04.ply,4.364495295,building
+p61_gpcc-octree-predlift_r05.ply,4.518821035,building
+p61_gpcc-octree-predlift_r06.ply,4.459766078,building
+p61_gpcc-octree-raht_r02.ply,1.273130322,building
+p61_gpcc-octree-raht_r03.ply,2.826136319,building
+p61_gpcc-octree-raht_r04.ply,4.421197401,building
+p61_gpcc-octree-raht_r05.ply,4.434462427,building
+p61_gpcc-octree-raht_r06.ply,4.529744807,building
+p61_vpcc_r00.ply,2.552696135,building
+p61_vpcc_r01.ply,3.596325096,building
+p61_vpcc_r02.ply,4.232167841,building
+p61_vpcc_r03.ply,4.397402546,building
+p61_vpcc_r04.ply,4.151473461,building
+p61_vpcc_r05.ply,4.66443254,building
+p62_geocnn_r01.ply,2.825028426,building
+p62_geocnn_r02.ply,3.477822996,building
+p62_geocnn_r03.ply,3.895996005,building
+p62_geocnn_r04.ply,3.943642731,building
+p62_gpcc-octree-predlift_r02.ply,1.322724366,building
+p62_gpcc-octree-predlift_r03.ply,2.68815928,building
+p62_gpcc-octree-predlift_r04.ply,4.230922623,building
+p62_gpcc-octree-predlift_r05.ply,4.307901083,building
+p62_gpcc-octree-predlift_r06.ply,4.385568407,building
+p62_gpcc-octree-raht_r02.ply,1.145550353,building
+p62_gpcc-octree-raht_r03.ply,2.596899092,building
+p62_gpcc-octree-raht_r04.ply,4.050095743,building
+p62_gpcc-octree-raht_r05.ply,4.366421463,building
+p62_gpcc-octree-raht_r06.ply,4.565675084,building
+p62_vpcc_r00.ply,2.259142255,building
+p62_vpcc_r01.ply,2.744764105,building
+p62_vpcc_r02.ply,3.717128128,building
+p62_vpcc_r03.ply,4.169321507,building
+p62_vpcc_r04.ply,4.42985094,building
+p62_vpcc_r05.ply,4.378187424,building
+p63_geocnn_r01.ply,4.231379676,building
+p63_geocnn_r02.ply,4.614782952,building
+p63_geocnn_r03.ply,4.626061496,building
+p63_geocnn_r04.ply,4.683181115,building
+p63_gpcc-octree-predlift_r02.ply,1.409194766,building
+p63_gpcc-octree-predlift_r03.ply,2.931192034,building
+p63_gpcc-octree-predlift_r04.ply,4.374067879,building
+p63_gpcc-octree-predlift_r05.ply,4.551565458,building
+p63_gpcc-octree-predlift_r06.ply,4.63208162,building
+p63_gpcc-octree-raht_r02.ply,1.287128172,building
+p63_gpcc-octree-raht_r03.ply,2.381459816,building
+p63_gpcc-octree-raht_r04.ply,3.908396282,building
+p63_gpcc-octree-raht_r05.ply,4.727982837,building
+p63_gpcc-octree-raht_r06.ply,4.623695817,building
+p63_vpcc_r00.ply,1.914588845,building
+p63_vpcc_r01.ply,2.344489399,building
+p63_vpcc_r02.ply,2.943418815,building
+p63_vpcc_r03.ply,4.218042945,building
+p63_vpcc_r04.ply,4.682696306,building
+p63_vpcc_r05.ply,4.679833342,building
+p64_geocnn_r01.ply,3.776748018,building
+p64_geocnn_r02.ply,4.447655637,building
+p64_geocnn_r03.ply,4.55243417,building
+p64_geocnn_r04.ply,4.60238228,building
+p64_gpcc-octree-predlift_r02.ply,1.432737053,building
+p64_gpcc-octree-predlift_r03.ply,3.075746926,building
+p64_gpcc-octree-predlift_r04.ply,4.469924182,building
+p64_gpcc-octree-predlift_r05.ply,4.474417117,building
+p64_gpcc-octree-predlift_r06.ply,4.543047666,building
+p64_gpcc-octree-raht_r02.ply,1.290626193,building
+p64_gpcc-octree-raht_r03.ply,3.103947805,building
+p64_gpcc-octree-raht_r04.ply,4.321475629,building
+p64_gpcc-octree-raht_r05.ply,4.65052238,building
+p64_gpcc-octree-raht_r06.ply,4.716474927,building
+p64_vpcc_r00.ply,2.671021156,building
+p64_vpcc_r01.ply,3.613202279,building
+p64_vpcc_r02.ply,4.233213915,building
+p64_vpcc_r03.ply,4.575568028,building
+p64_vpcc_r04.ply,4.504893708,building
+p64_vpcc_r05.ply,4.710768164,building
+p65_geocnn_r01.ply,3.643278302,landscape
+p65_geocnn_r02.ply,4.258069576,landscape
+p65_geocnn_r03.ply,4.618588718,landscape
+p65_geocnn_r04.ply,4.45732721,landscape
+p65_gpcc-octree-predlift_r02.ply,1.306347717,landscape
+p65_gpcc-octree-predlift_r03.ply,2.613250216,landscape
+p65_gpcc-octree-predlift_r04.ply,4.041872133,landscape
+p65_gpcc-octree-predlift_r05.ply,4.253184066,landscape
+p65_gpcc-octree-predlift_r06.ply,4.395871171,landscape
+p65_gpcc-octree-raht_r02.ply,1.129550612,landscape
+p65_gpcc-octree-raht_r03.ply,2.36512381,landscape
+p65_gpcc-octree-raht_r04.ply,4.012195419,landscape
+p65_gpcc-octree-raht_r05.ply,4.342329384,landscape
+p65_gpcc-octree-raht_r06.ply,4.462116757,landscape
+p65_vpcc_r00.ply,1.762572255,landscape
+p65_vpcc_r01.ply,2.82703473,landscape
+p65_vpcc_r02.ply,3.582078283,landscape
+p65_vpcc_r03.ply,4.298589654,landscape
+p65_vpcc_r04.ply,4.414700261,landscape
+p65_vpcc_r05.ply,4.493763308,landscape
+p66_geocnn_r01.ply,3.282988809,landscape
+p66_geocnn_r02.ply,4.240204208,landscape
+p66_geocnn_r03.ply,4.378614418,landscape
+p66_geocnn_r04.ply,4.474890628,landscape
+p66_gpcc-octree-predlift_r02.ply,1.264118519,landscape
+p66_gpcc-octree-predlift_r03.ply,3.138929965,landscape
+p66_gpcc-octree-predlift_r04.ply,4.276442139,landscape
+p66_gpcc-octree-predlift_r05.ply,4.652210567,landscape
+p66_gpcc-octree-predlift_r06.ply,4.733174021,landscape
+p66_gpcc-octree-raht_r02.ply,1.311417432,landscape
+p66_gpcc-octree-raht_r03.ply,2.760133355,landscape
+p66_gpcc-octree-raht_r04.ply,4.050416732,landscape
+p66_gpcc-octree-raht_r05.ply,4.460358755,landscape
+p66_gpcc-octree-raht_r06.ply,4.672288031,landscape
+p66_vpcc_r00.ply,1.66468534,landscape
+p66_vpcc_r01.ply,2.765893309,landscape
+p66_vpcc_r02.ply,3.466318078,landscape
+p66_vpcc_r03.ply,4.054035604,landscape
+p66_vpcc_r04.ply,4.223417414,landscape
+p66_vpcc_r05.ply,4.342792416,landscape
+p67_geocnn_r01.ply,2.874972718,landscape
+p67_geocnn_r02.ply,3.849290442,landscape
+p67_geocnn_r03.ply,4.062737173,landscape
+p67_geocnn_r04.ply,4.289547425,landscape
+p67_gpcc-octree-predlift_r02.ply,1.380175034,landscape
+p67_gpcc-octree-predlift_r03.ply,3.059535628,landscape
+p67_gpcc-octree-predlift_r04.ply,4.549355116,landscape
+p67_gpcc-octree-predlift_r05.ply,4.477685234,landscape
+p67_gpcc-octree-predlift_r06.ply,4.497375629,landscape
+p67_gpcc-octree-raht_r02.ply,1.145133668,landscape
+p67_gpcc-octree-raht_r03.ply,2.944990442,landscape
+p67_gpcc-octree-raht_r04.ply,4.295487728,landscape
+p67_gpcc-octree-raht_r05.ply,4.5391638,landscape
+p67_gpcc-octree-raht_r06.ply,4.682497969,landscape
+p67_vpcc_r00.ply,2.391726045,landscape
+p67_vpcc_r01.ply,3.440946917,landscape
+p67_vpcc_r02.ply,3.909153367,landscape
+p67_vpcc_r03.ply,4.351303534,landscape
+p67_vpcc_r04.ply,4.498156017,landscape
+p67_vpcc_r05.ply,4.460794476,landscape
+p68_geocnn_r03.ply,4.498506868,landscape
+p68_geocnn_r04.ply,4.651339326,landscape
+p68_gpcc-octree-predlift_r02.ply,1.275107362,landscape
+p68_gpcc-octree-predlift_r03.ply,3.255462294,landscape
+p68_gpcc-octree-predlift_r04.ply,4.345723406,landscape
+p68_gpcc-octree-predlift_r05.ply,4.361668898,landscape
+p68_gpcc-octree-predlift_r06.ply,4.616684275,landscape
+p68_gpcc-octree-raht_r02.ply,1.13505233,landscape
+p68_gpcc-octree-raht_r03.ply,3.576771602,landscape
+p68_gpcc-octree-raht_r04.ply,4.438555016,landscape
+p68_gpcc-octree-raht_r05.ply,4.624152716,landscape
+p68_gpcc-octree-raht_r06.ply,4.692299606,landscape
+p68_vpcc_r00.ply,2.03252592,landscape
+p68_vpcc_r01.ply,3.392602822,landscape
+p68_vpcc_r02.ply,4.027700484,landscape
+p68_vpcc_r03.ply,4.233450365,landscape
+p68_vpcc_r04.ply,4.463887286,landscape
+p68_vpcc_r05.ply,4.57383482,landscape
+p69_geocnn_r01.ply,3.833634326,landscape
+p69_geocnn_r02.ply,4.170787567,landscape
+p69_geocnn_r03.ply,4.226210011,landscape
+p69_geocnn_r04.ply,4.671893566,landscape
+p69_gpcc-octree-predlift_r02.ply,1.410270621,landscape
+p69_gpcc-octree-predlift_r03.ply,3.195681597,landscape
+p69_gpcc-octree-predlift_r04.ply,4.241368551,landscape
+p69_gpcc-octree-predlift_r05.ply,4.570485193,landscape
+p69_gpcc-octree-predlift_r06.ply,4.655660128,landscape
+p69_gpcc-octree-raht_r02.ply,1.430688888,landscape
+p69_gpcc-octree-raht_r03.ply,2.527734403,landscape
+p69_gpcc-octree-raht_r04.ply,4.013587098,landscape
+p69_gpcc-octree-raht_r05.ply,4.71609757,landscape
+p69_gpcc-octree-raht_r06.ply,4.650161543,landscape
+p69_vpcc_r00.ply,2.140081818,landscape
+p69_vpcc_r01.ply,2.770917851,landscape
+p69_vpcc_r02.ply,3.347608516,landscape
+p69_vpcc_r03.ply,4.113035234,landscape
+p69_vpcc_r04.ply,4.5641375,landscape
+p69_vpcc_r05.ply,4.488378451,landscape
+p70_geocnn_r01.ply,3.871668974,landscape
+p70_geocnn_r02.ply,4.43406935,landscape
+p70_geocnn_r03.ply,4.486516882,landscape
+p70_geocnn_r04.ply,4.296197754,landscape
+p70_gpcc-octree-predlift_r02.ply,1.180481779,landscape
+p70_gpcc-octree-predlift_r03.ply,2.630280335,landscape
+p70_gpcc-octree-predlift_r04.ply,4.211651708,landscape
+p70_gpcc-octree-predlift_r05.ply,4.481888297,landscape
+p70_gpcc-octree-predlift_r06.ply,4.493858425,landscape
+p70_gpcc-octree-raht_r02.ply,1.199409115,landscape
+p70_gpcc-octree-raht_r03.ply,2.355662536,landscape
+p70_gpcc-octree-raht_r04.ply,4.144979078,landscape
+p70_gpcc-octree-raht_r05.ply,4.467903076,landscape
+p70_gpcc-octree-raht_r06.ply,4.442222357,landscape
+p70_vpcc_r00.ply,1.591105707,landscape
+p70_vpcc_r01.ply,2.438644052,landscape
+p70_vpcc_r02.ply,3.272339742,landscape
+p70_vpcc_r03.ply,4.121896675,landscape
+p70_vpcc_r04.ply,4.378679361,landscape
+p70_vpcc_r05.ply,4.350553045,landscape
+p71_geocnn_r01.ply,3.434044557,landscape
+p71_geocnn_r02.ply,4.470613577,landscape
+p71_geocnn_r03.ply,4.497787882,landscape
+p71_geocnn_r04.ply,4.537475617,landscape
+p71_gpcc-octree-predlift_r02.ply,1.448794458,landscape
+p71_gpcc-octree-predlift_r03.ply,3.166313941,landscape
+p71_gpcc-octree-predlift_r04.ply,4.273587904,landscape
+p71_gpcc-octree-predlift_r05.ply,4.621521209,landscape
+p71_gpcc-octree-predlift_r06.ply,4.628672986,landscape
+p71_gpcc-octree-raht_r02.ply,1.205814864,landscape
+p71_gpcc-octree-raht_r03.ply,2.877400005,landscape
+p71_gpcc-octree-raht_r04.ply,4.179204515,landscape
+p71_gpcc-octree-raht_r05.ply,4.632177508,landscape
+p71_gpcc-octree-raht_r06.ply,4.516690949,landscape
+p71_vpcc_r00.ply,2.050404173,landscape
+p71_vpcc_r01.ply,2.535435619,landscape
+p71_vpcc_r02.ply,3.432297878,landscape
+p71_vpcc_r03.ply,3.483178962,landscape
+p71_vpcc_r04.ply,3.894347077,landscape
+p71_vpcc_r05.ply,4.03092381,landscape
+p72_geocnn_r01.ply,3.089644256,landscape
+p72_geocnn_r02.ply,3.490208956,landscape
+p72_geocnn_r03.ply,3.635913127,landscape
+p72_geocnn_r04.ply,4.015282102,landscape
+p72_gpcc-octree-predlift_r02.ply,1.258992429,landscape
+p72_gpcc-octree-predlift_r03.ply,2.591746993,landscape
+p72_gpcc-octree-predlift_r04.ply,4.12372481,landscape
+p72_gpcc-octree-predlift_r05.ply,4.231493233,landscape
+p72_gpcc-octree-predlift_r06.ply,4.524153853,landscape
+p72_gpcc-octree-raht_r02.ply,1.183854788,landscape
+p72_gpcc-octree-raht_r03.ply,2.633532503,landscape
+p72_gpcc-octree-raht_r04.ply,3.896266779,landscape
+p72_gpcc-octree-raht_r05.ply,4.254045623,landscape
+p72_gpcc-octree-raht_r06.ply,4.437200757,landscape
+p72_vpcc_r00.ply,1.858162501,landscape
+p72_vpcc_r01.ply,2.605488288,landscape
+p72_vpcc_r02.ply,3.393405269,landscape
+p72_vpcc_r03.ply,3.701916191,landscape
+p72_vpcc_r04.ply,4.073069575,landscape
+p72_vpcc_r05.ply,4.342173706,landscape
+p73_geocnn_r01.ply,3.649274485,landscape
+p73_geocnn_r02.ply,3.899932914,landscape
+p73_geocnn_r03.ply,4.411956622,landscape
+p73_geocnn_r04.ply,4.546684715,landscape
+p73_gpcc-octree-predlift_r02.ply,1.42797454,landscape
+p73_gpcc-octree-predlift_r03.ply,3.265766927,landscape
+p73_gpcc-octree-predlift_r04.ply,4.319596144,landscape
+p73_gpcc-octree-predlift_r05.ply,4.566920727,landscape
+p73_gpcc-octree-predlift_r06.ply,4.556103949,landscape
+p73_gpcc-octree-raht_r02.ply,1.315802633,landscape
+p73_gpcc-octree-raht_r03.ply,3.332708435,landscape
+p73_gpcc-octree-raht_r04.ply,4.321568557,landscape
+p73_gpcc-octree-raht_r05.ply,4.574678823,landscape
+p73_gpcc-octree-raht_r06.ply,4.553863659,landscape
+p73_vpcc_r00.ply,2.651339738,landscape
+p73_vpcc_r01.ply,3.545869745,landscape
+p73_vpcc_r02.ply,4.064700916,landscape
+p73_vpcc_r03.ply,4.288429318,landscape
+p73_vpcc_r04.ply,4.542811561,landscape
+p73_vpcc_r05.ply,4.590102016,landscape
+p74_geocnn_r01.ply,1.91835257,landscape
+p74_geocnn_r02.ply,3.503402544,landscape
+p74_geocnn_r03.ply,3.792132973,landscape
+p74_geocnn_r04.ply,3.774499143,landscape
+p74_gpcc-octree-predlift_r02.ply,1.173672691,landscape
+p74_gpcc-octree-predlift_r03.ply,2.196661715,landscape
+p74_gpcc-octree-predlift_r04.ply,3.71025073,landscape
+p74_gpcc-octree-predlift_r05.ply,4.034833796,landscape
+p74_gpcc-octree-predlift_r06.ply,4.166182535,landscape
+p74_gpcc-octree-raht_r02.ply,1.251558149,landscape
+p74_gpcc-octree-raht_r03.ply,2.195819896,landscape
+p74_gpcc-octree-raht_r04.ply,3.808724067,landscape
+p74_gpcc-octree-raht_r05.ply,4.072715324,landscape
+p74_gpcc-octree-raht_r06.ply,4.035181494,landscape
+p74_vpcc_r00.ply,2.379901146,landscape
+p74_vpcc_r01.ply,3.116440048,landscape
+p74_vpcc_r02.ply,3.988929681,landscape
+p74_vpcc_r03.ply,4.070927011,landscape
+p74_vpcc_r04.ply,4.011737883,landscape
+p74_vpcc_r05.ply,4.180545074,landscape
+p75_geocnn_r01.ply,2.533589959,landscape
+p75_geocnn_r02.ply,3.340161656,landscape
+p75_geocnn_r03.ply,3.524951438,landscape
+p75_geocnn_r04.ply,4.046083483,landscape
+p75_gpcc-octree-predlift_r02.ply,1.334273339,landscape
+p75_gpcc-octree-predlift_r03.ply,2.927060718,landscape
+p75_gpcc-octree-predlift_r04.ply,4.158367716,landscape
+p75_gpcc-octree-predlift_r05.ply,4.402113156,landscape
+p75_gpcc-octree-predlift_r06.ply,4.182528889,landscape
+p75_gpcc-octree-raht_r02.ply,1.315228544,landscape
+p75_gpcc-octree-raht_r03.ply,2.616288413,landscape
+p75_gpcc-octree-raht_r04.ply,4.225282671,landscape
+p75_gpcc-octree-raht_r05.ply,4.354703905,landscape
+p75_gpcc-octree-raht_r06.ply,4.131080109,landscape
+p75_vpcc_r00.ply,2.002676094,landscape
+p75_vpcc_r01.ply,3.329829155,landscape
+p75_vpcc_r02.ply,3.620569436,landscape
+p75_vpcc_r03.ply,4.004614957,landscape
+p75_vpcc_r04.ply,3.97019618,landscape
+p75_vpcc_r05.ply,3.768443494,landscape
