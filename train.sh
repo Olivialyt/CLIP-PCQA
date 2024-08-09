@@ -30,3 +30,4 @@ CUDA_VISIBLE_DEVICES=0,1 python -u main.py \
 --num_epochs 50 \
 --k_fold_num 5 \
 >> logs/LS_PCQA_part.log
+
