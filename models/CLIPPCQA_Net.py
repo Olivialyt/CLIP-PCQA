@@ -8,7 +8,6 @@ import math
 from clip.simple_tokenizer import SimpleTokenizer as _Tokenizer
 
 _tokenizer = _Tokenizer()
-
 clip_vis = 'ViT-B/16'
 
 class TextEncoder(nn.Module):
