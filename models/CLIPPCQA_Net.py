@@ -9,7 +9,6 @@ from clip.simple_tokenizer import SimpleTokenizer as _Tokenizer
 
 _tokenizer = _Tokenizer()
 
-temperature = 0.001
 clip_vis = 'ViT-B/16'
 
 class TextEncoder(nn.Module):
