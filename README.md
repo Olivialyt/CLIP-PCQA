@@ -1,4 +1,4 @@
-# CLIP-PCQA: Exploring Subjective-Aligned Vision-Language Modeling for Point Cloud Quality Assessment (accepted by AAAI2025)
+<h1 style="text-align: center;">CLIP-PCQA: Exploring Subjective-Aligned Vision-Language Modeling for Point Cloud Quality Assessment (accepted by AAAI2025)</h1>
 <p align="center">
 Yating Liu*, Yujie Zhang*, Ziyu Shan, Yiling Xu†<br>
 Shanghai Jiao Tong University<br>
