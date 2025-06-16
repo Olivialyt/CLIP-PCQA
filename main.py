@@ -116,6 +116,12 @@ if __name__=='__main__':
             raw_score_path = './csvfiles/BASICS/basics_data_info/total_raw_score.csv'
             score_list = [0.0, 1.0, 2.0, 3.0, 4.0]
 
+        elif database == 'WPC':
+            train_filename_list = './csvfiles/WPC/wpc_data_info/train_'+str(k_fold_id)+'.csv'
+            test_filename_list = './csvfiles/WPC/wpc_data_info/test_'+str(k_fold_id)+'.csv'
+            raw_score_path = './csvfiles/WPC/wpc_data_info/total_raw_score.csv'
+            score_list = [0.0, 25.0, 50.0, 75.0, 100.0]
+
         transformations_train = transforms.Compose([transforms.RandomCrop(224),transforms.ToTensor(),\
                 transforms.Normalize(mean = [0.485, 0.456, 0.406], std = [0.229, 0.224, 0.225])])
         transformations_test = transforms.Compose([transforms.CenterCrop(224),transforms.ToTensor(),\
