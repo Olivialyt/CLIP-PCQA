@@ -78,6 +78,13 @@ We provide the pretrained models trained on three datasets with available raw op
 
 Using these pretrained models, you can evaluate cross-database generalizability by running `cross_validation.py`.
 
+## 📈 Results
+| **Metric** | SJTU-PCQA | WPC | LS-PCQA | BASICS |
+|:-:|:-:|:-:|:-:|:-:|
+| PLCC | 0.956 | 0.894 | 0.755 | 0.932 |
+| SRCC | 0.936 | 0.890 | 0.736 | 0.872 |
+| RMSE | 0.693 | 10.112 | 0.533 | 0.382 |
+ 
 ## 📖 Acknowlegement
 This repo is built upon several opensourced codebases, shout out to them for their amazing works.
 * ([MM-PCQA](https://github.com/zzc-1998/MM-PCQA))
