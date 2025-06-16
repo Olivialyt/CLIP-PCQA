@@ -31,3 +31,13 @@ CUDA_VISIBLE_DEVICES=0,1 python -u main.py \
 --k_fold_num 5 \
 >> logs/LS_PCQA_part.log
 
+CUDA_VISIBLE_DEVICES=0,1 python -u main.py \
+--learning_rate 0.000004 \
+--batch_size  16 \
+--database WPC  \
+--img_length_read 6 \
+--data_dir_2d ./dataset/WPC_maps/6view \
+--data_dir_depth ./dataset/WPC_maps/6view_depth \
+--num_epochs 50 \
+--k_fold_num 5 \
+>> logs/WPC.log
