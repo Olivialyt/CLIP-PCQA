@@ -78,7 +78,6 @@ if __name__=='__main__':
         raw_score_path = 'csvfiles/sjtu_data_info/total_raw_score.csv'
         score_list = [2.0, 4.0, 6.0, 8.0, 10.0]
 
-
     elif database == 'LS_PCQA_part':
         train_filename_list = 'csvfiles/ls_pcqa_data_info/total.csv'
         raw_score_path = 'csvfiles/ls_pcqa_data_info/total_raw_score.csv'
@@ -87,6 +86,11 @@ if __name__=='__main__':
     elif database == 'BASICS':
         train_filename_list = 'csvfiles/basics_data_info/total.csv'
         raw_score_path = 'csvfiles/basics_data_info/total_raw_score.csv'
+        score_list = [0.0, 1.0, 2.0, 3.0, 4.0]
+
+    elif database == 'WPC':
+        train_filename_list = 'csvfiles/wpc_data_info/total.csv'
+        raw_score_path = 'csvfiles/wpc_data_info/total_raw_score.csv'
         score_list = [0.0, 1.0, 2.0, 3.0, 4.0]
 
     transformations_train = transforms.Compose([transforms.RandomCrop(224),transforms.ToTensor(),\
