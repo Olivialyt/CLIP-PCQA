@@ -91,7 +91,7 @@ if __name__=='__main__':
     elif database == 'WPC':
         train_filename_list = 'csvfiles/wpc_data_info/total.csv'
         raw_score_path = 'csvfiles/wpc_data_info/total_raw_score.csv'
-        score_list = [0.0, 1.0, 2.0, 3.0, 4.0]
+        score_list = [20.0, 40.0, 60.0, 80.0, 100.0]
 
     transformations_train = transforms.Compose([transforms.RandomCrop(224),transforms.ToTensor(),\
             transforms.Normalize(mean = [0.485, 0.456, 0.406], std = [0.229, 0.224, 0.225])])
